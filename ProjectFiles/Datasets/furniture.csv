@@ -1,0 +1,4001 @@
+FurnitureID,Type,Condition,ApartmentID
+10200,lamps,New,2789
+10201,couch,Used,4647
+10202,table,New,1558
+10203,nightstand,New,705
+10204,desk,Used,631
+10205,bookcase,Used,1748
+10206,desk,New,225
+10207,couch,New,749
+10208,bed,Used,4111
+10209,mattress,New,1554
+10210,TV stand,New,3210
+10211,lamps,New,3971
+10212,chair,Used,4944
+10213,couch,New,4549
+10214,nightstand,New,1073
+10215,nightstand,Used,3109
+10216,refrigerator,Used,1256
+10217,bed,New,2569
+10218,nightstand,Used,717
+10219,bed,New,734
+10220,nightstand,New,3288
+10221,TV stand,New,776
+10222,bookcase,New,2283
+10223,bookcase,New,1576
+10224,chair,New,4224
+10225,coffee table,Used,2245
+10226,coffee table,New,3866
+10227,nightstand,New,1322
+10228,mattress,Used,617
+10229,refrigerator,New,815
+10230,chair,Used,806
+10231,mattress,Used,3683
+10232,desk,New,2058
+10233,chest of drawers,New,2743
+10234,bookcase,Used,4560
+10235,TV stand,Used,279
+10236,refrigerator,New,1489
+10237,refrigerator,New,4962
+10238,bookcase,New,2741
+10239,bookcase,Used,677
+10240,TV stand,New,2968
+10241,couch,Used,1553
+10242,chair,Used,4148
+10243,desk,Used,309
+10244,coffee table,Used,4211
+10245,mattress,New,5018
+10246,bed,New,4675
+10247,refrigerator,New,501
+10248,coffee table,Used,936
+10249,chest of drawers,Used,3393
+10250,lamps,New,3740
+10251,bed,New,2088
+10252,chest of drawers,New,2399
+10253,couch,New,1310
+10254,TV stand,New,2156
+10255,chair,New,614
+10256,refrigerator,New,975
+10257,mattress,Used,934
+10258,chest of drawers,Used,3870
+10259,bed,Used,2755
+10260,mattress,New,4129
+10261,desk,New,3970
+10262,couch,New,4814
+10263,refrigerator,Used,1176
+10264,bed,Used,2321
+10265,chair,Used,2459
+10266,mattress,New,3148
+10267,lamps,Used,4012
+10268,chair,Used,233
+10269,chair,New,3323
+10270,bookcase,New,4831
+10271,chest of drawers,New,203
+10272,chest of drawers,Used,4978
+10273,coffee table,New,1172
+10274,couch,New,226
+10275,refrigerator,New,333
+10276,TV stand,Used,2656
+10277,couch,Used,4320
+10278,chest of drawers,Used,1496
+10279,refrigerator,New,1033
+10280,refrigerator,Used,145
+10281,bookcase,Used,2891
+10282,refrigerator,New,1262
+10283,mattress,New,3363
+10284,TV stand,New,4665
+10285,table,Used,4291
+10286,lamps,New,3092
+10287,refrigerator,Used,2071
+10288,chair,Used,4426
+10289,lamps,New,2325
+10290,bed,New,3070
+10291,couch,Used,4608
+10292,nightstand,Used,2456
+10293,chair,Used,3951
+10294,table,New,104
+10295,table,New,2526
+10296,TV stand,Used,3459
+10297,desk,Used,3422
+10298,desk,Used,3313
+10299,table,Used,2239
+10300,bed,New,4077
+10301,mattress,Used,1942
+10302,chair,Used,5027
+10303,refrigerator,New,3586
+10304,TV stand,Used,1807
+10305,chair,Used,3100
+10306,chest of drawers,New,2882
+10307,coffee table,Used,694
+10308,TV stand,Used,1618
+10309,nightstand,Used,4685
+10310,table,Used,592
+10311,nightstand,Used,5058
+10312,bookcase,New,1032
+10313,bookcase,New,3260
+10314,couch,Used,4272
+10315,desk,New,4978
+10316,couch,Used,1535
+10317,table,New,309
+10318,chest of drawers,Used,4905
+10319,nightstand,New,322
+10320,bed,New,1023
+10321,mattress,Used,297
+10322,nightstand,New,2446
+10323,chest of drawers,New,1403
+10324,couch,Used,1481
+10325,coffee table,Used,1318
+10326,refrigerator,New,3689
+10327,refrigerator,New,1275
+10328,bed,Used,1926
+10329,desk,New,3966
+10330,desk,New,3124
+10331,table,Used,4683
+10332,chair,Used,105
+10333,mattress,New,1683
+10334,desk,New,1337
+10335,couch,Used,5039
+10336,couch,New,3764
+10337,refrigerator,Used,3192
+10338,table,Used,4225
+10339,nightstand,Used,2905
+10340,bookcase,Used,4701
+10341,couch,Used,3587
+10342,lamps,Used,4038
+10343,nightstand,New,471
+10344,lamps,New,4610
+10345,chair,New,2490
+10346,chest of drawers,Used,3511
+10347,coffee table,Used,3819
+10348,couch,New,3085
+10349,refrigerator,New,5009
+10350,nightstand,New,4976
+10351,refrigerator,New,1877
+10352,mattress,Used,4043
+10353,table,Used,4640
+10354,refrigerator,New,3800
+10355,chest of drawers,Used,1728
+10356,table,Used,5018
+10357,refrigerator,Used,3365
+10358,table,New,3836
+10359,lamps,New,1516
+10360,chair,Used,3316
+10361,desk,New,415
+10362,desk,New,248
+10363,chair,New,2481
+10364,nightstand,Used,2152
+10365,bed,Used,3024
+10366,chest of drawers,New,4914
+10367,desk,New,4367
+10368,TV stand,New,4654
+10369,bookcase,Used,1101
+10370,TV stand,Used,5045
+10371,desk,New,1053
+10372,TV stand,Used,2317
+10373,table,New,1045
+10374,nightstand,Used,3936
+10375,lamps,New,1667
+10376,coffee table,Used,4500
+10377,chair,New,2786
+10378,TV stand,New,4513
+10379,nightstand,Used,1565
+10380,bookcase,New,1147
+10381,lamps,New,3023
+10382,lamps,New,2569
+10383,coffee table,New,4704
+10384,chair,New,4425
+10385,chest of drawers,Used,193
+10386,table,New,223
+10387,TV stand,Used,2998
+10388,desk,New,4906
+10389,chair,Used,3427
+10390,lamps,New,2934
+10391,table,Used,2810
+10392,chest of drawers,Used,1166
+10393,nightstand,Used,3627
+10394,couch,New,320
+10395,desk,New,4001
+10396,chest of drawers,Used,3524
+10397,lamps,New,3533
+10398,mattress,New,1046
+10399,desk,Used,4132
+10400,mattress,Used,3297
+10401,table,New,1118
+10402,lamps,New,1957
+10403,nightstand,Used,794
+10404,chair,New,4510
+10405,chair,Used,2500
+10406,chair,Used,4604
+10407,chair,Used,3082
+10408,bed,New,1700
+10409,bookcase,New,4002
+10410,couch,New,248
+10411,nightstand,Used,4769
+10412,lamps,Used,143
+10413,desk,Used,2918
+10414,bookcase,New,808
+10415,bed,Used,522
+10416,TV stand,Used,825
+10417,chest of drawers,New,1940
+10418,coffee table,New,160
+10419,lamps,New,3334
+10420,TV stand,New,3212
+10421,bookcase,New,2997
+10422,chest of drawers,Used,4984
+10423,refrigerator,New,202
+10424,chest of drawers,Used,2185
+10425,couch,Used,4165
+10426,bed,Used,3112
+10427,nightstand,Used,4780
+10428,bed,Used,3255
+10429,desk,Used,1213
+10430,nightstand,New,4125
+10431,refrigerator,Used,5070
+10432,chest of drawers,New,110
+10433,bookcase,New,2271
+10434,bed,Used,4450
+10435,coffee table,Used,3153
+10436,chair,New,4726
+10437,coffee table,New,1661
+10438,desk,New,1777
+10439,mattress,Used,3751
+10440,refrigerator,New,4577
+10441,bed,New,4165
+10442,chair,Used,2445
+10443,desk,New,2643
+10444,desk,New,3048
+10445,TV stand,New,1092
+10446,couch,New,3992
+10447,mattress,New,2441
+10448,TV stand,New,4668
+10449,mattress,New,4918
+10450,couch,Used,2124
+10451,nightstand,New,4041
+10452,lamps,New,744
+10453,TV stand,Used,3280
+10454,desk,Used,3655
+10455,bookcase,Used,996
+10456,chest of drawers,New,2088
+10457,chest of drawers,New,1576
+10458,chest of drawers,New,3968
+10459,nightstand,New,443
+10460,lamps,New,1177
+10461,table,New,1931
+10462,TV stand,New,713
+10463,desk,New,4092
+10464,desk,Used,5068
+10465,nightstand,Used,1818
+10466,coffee table,New,2974
+10467,refrigerator,New,2681
+10468,lamps,Used,4485
+10469,table,New,984
+10470,chest of drawers,New,3618
+10471,couch,Used,3908
+10472,coffee table,Used,365
+10473,bed,Used,1617
+10474,nightstand,Used,1375
+10475,table,New,958
+10476,table,New,3068
+10477,desk,Used,2488
+10478,couch,Used,2901
+10479,table,New,1119
+10480,refrigerator,Used,529
+10481,bookcase,Used,2368
+10482,lamps,Used,1276
+10483,chest of drawers,New,1603
+10484,mattress,Used,2884
+10485,chest of drawers,New,2259
+10486,chest of drawers,Used,592
+10487,refrigerator,Used,393
+10488,table,Used,4899
+10489,table,Used,1856
+10490,chest of drawers,New,2208
+10491,refrigerator,Used,1548
+10492,mattress,New,1958
+10493,lamps,New,1586
+10494,coffee table,Used,2453
+10495,chair,New,2744
+10496,table,New,4245
+10497,bookcase,Used,4268
+10498,lamps,New,3395
+10499,table,Used,1157
+10500,lamps,New,2203
+10501,TV stand,New,4217
+10502,bookcase,Used,1421
+10503,couch,New,2440
+10504,chair,Used,3199
+10505,mattress,New,3095
+10506,nightstand,New,722
+10507,coffee table,Used,2511
+10508,lamps,New,4099
+10509,bed,Used,1132
+10510,refrigerator,New,2841
+10511,coffee table,New,3110
+10512,TV stand,Used,3155
+10513,TV stand,Used,475
+10514,couch,New,2749
+10515,refrigerator,Used,441
+10516,desk,New,2648
+10517,couch,New,1742
+10518,mattress,New,3259
+10519,refrigerator,Used,1974
+10520,TV stand,New,2590
+10521,mattress,New,269
+10522,refrigerator,Used,378
+10523,bookcase,New,4548
+10524,couch,Used,1391
+10525,TV stand,New,4883
+10526,nightstand,New,1223
+10527,table,Used,1952
+10528,couch,Used,2255
+10529,chest of drawers,Used,4717
+10530,lamps,New,3677
+10531,bed,New,692
+10532,mattress,New,3154
+10533,chair,Used,3434
+10534,coffee table,New,3390
+10535,table,New,825
+10536,TV stand,Used,2632
+10537,coffee table,Used,2538
+10538,desk,Used,4643
+10539,table,New,142
+10540,refrigerator,New,1150
+10541,bookcase,New,2778
+10542,chair,New,2090
+10543,desk,New,1218
+10544,bookcase,New,1769
+10545,chair,Used,2416
+10546,refrigerator,Used,1737
+10547,lamps,New,2446
+10548,chest of drawers,Used,2864
+10549,lamps,New,2542
+10550,bookcase,New,4609
+10551,TV stand,New,3168
+10552,bookcase,Used,1431
+10553,coffee table,New,1030
+10554,mattress,Used,2172
+10555,bed,New,3799
+10556,mattress,New,1881
+10557,couch,Used,1110
+10558,lamps,Used,4898
+10559,desk,New,2514
+10560,table,Used,2470
+10561,desk,Used,4450
+10562,lamps,Used,2130
+10563,bed,Used,483
+10564,couch,New,3084
+10565,desk,New,1097
+10566,refrigerator,Used,1801
+10567,coffee table,Used,4880
+10568,couch,New,962
+10569,coffee table,Used,3133
+10570,chair,Used,3033
+10571,refrigerator,New,4673
+10572,coffee table,New,1157
+10573,coffee table,Used,991
+10574,bed,Used,395
+10575,TV stand,Used,852
+10576,desk,Used,454
+10577,refrigerator,New,2497
+10578,couch,New,3834
+10579,chest of drawers,Used,4695
+10580,chest of drawers,Used,345
+10581,chair,Used,3517
+10582,TV stand,Used,2093
+10583,chair,Used,2056
+10584,TV stand,Used,1618
+10585,nightstand,Used,3474
+10586,TV stand,Used,4109
+10587,lamps,New,5046
+10588,bookcase,New,684
+10589,chest of drawers,Used,1404
+10590,table,Used,608
+10591,nightstand,New,3673
+10592,table,Used,4011
+10593,chest of drawers,Used,4431
+10594,mattress,Used,1108
+10595,couch,New,4289
+10596,refrigerator,New,3987
+10597,TV stand,New,5037
+10598,chair,New,2262
+10599,bed,New,2577
+10600,TV stand,New,3774
+10601,TV stand,New,562
+10602,nightstand,New,3056
+10603,refrigerator,Used,380
+10604,lamps,New,953
+10605,bed,Used,3057
+10606,lamps,Used,809
+10607,bookcase,Used,1200
+10608,nightstand,Used,2093
+10609,bed,Used,2736
+10610,table,Used,2464
+10611,TV stand,New,664
+10612,coffee table,Used,2803
+10613,refrigerator,Used,3896
+10614,refrigerator,New,2679
+10615,coffee table,New,3342
+10616,chair,Used,4776
+10617,chair,Used,4262
+10618,coffee table,Used,1506
+10619,couch,Used,950
+10620,chest of drawers,New,2309
+10621,coffee table,Used,1960
+10622,bookcase,New,3865
+10623,table,New,668
+10624,refrigerator,New,3964
+10625,lamps,New,3412
+10626,mattress,Used,1496
+10627,couch,Used,5006
+10628,bed,Used,3790
+10629,TV stand,New,414
+10630,bookcase,New,4636
+10631,coffee table,New,3447
+10632,chest of drawers,New,5039
+10633,desk,Used,1839
+10634,nightstand,New,1290
+10635,chest of drawers,New,3024
+10636,mattress,New,3922
+10637,TV stand,New,4964
+10638,coffee table,Used,3458
+10639,desk,Used,3760
+10640,nightstand,New,2907
+10641,mattress,New,1945
+10642,couch,Used,2605
+10643,table,Used,2658
+10644,bed,New,4831
+10645,chair,New,1532
+10646,bed,New,1254
+10647,chair,New,4809
+10648,refrigerator,Used,1639
+10649,coffee table,New,4537
+10650,couch,Used,4662
+10651,table,New,2403
+10652,TV stand,New,1444
+10653,refrigerator,New,4798
+10654,refrigerator,New,457
+10655,couch,Used,4872
+10656,coffee table,New,4043
+10657,coffee table,Used,493
+10658,chair,Used,1655
+10659,bookcase,Used,4855
+10660,bed,Used,5041
+10661,chest of drawers,New,3191
+10662,table,New,3747
+10663,lamps,Used,604
+10664,bed,New,4944
+10665,nightstand,New,2206
+10666,coffee table,Used,551
+10667,lamps,New,3650
+10668,mattress,Used,3279
+10669,coffee table,New,272
+10670,desk,New,2174
+10671,table,Used,1494
+10672,lamps,Used,3736
+10673,chest of drawers,New,282
+10674,coffee table,Used,4121
+10675,chest of drawers,Used,3038
+10676,TV stand,New,4567
+10677,bed,New,3886
+10678,TV stand,Used,4548
+10679,refrigerator,New,1532
+10680,mattress,Used,1824
+10681,table,Used,3589
+10682,table,Used,4399
+10683,desk,New,1615
+10684,TV stand,Used,3336
+10685,mattress,Used,3721
+10686,chest of drawers,Used,4612
+10687,coffee table,Used,4542
+10688,nightstand,New,3730
+10689,lamps,New,3622
+10690,refrigerator,Used,2530
+10691,desk,Used,121
+10692,chest of drawers,New,3482
+10693,refrigerator,New,3991
+10694,table,Used,273
+10695,refrigerator,New,3660
+10696,chair,New,4922
+10697,chest of drawers,New,907
+10698,TV stand,Used,4750
+10699,TV stand,New,836
+10700,chair,New,1227
+10701,table,New,168
+10702,table,New,373
+10703,couch,Used,1677
+10704,bookcase,New,4866
+10705,TV stand,Used,4598
+10706,mattress,New,4805
+10707,TV stand,Used,3597
+10708,desk,New,1298
+10709,mattress,Used,3144
+10710,table,New,285
+10711,couch,Used,1662
+10712,nightstand,Used,3669
+10713,table,New,4603
+10714,nightstand,Used,2959
+10715,chair,New,3832
+10716,refrigerator,Used,4710
+10717,lamps,Used,3634
+10718,nightstand,New,1790
+10719,couch,Used,2870
+10720,refrigerator,New,2645
+10721,table,New,5037
+10722,refrigerator,Used,4484
+10723,coffee table,New,4562
+10724,chest of drawers,New,652
+10725,bookcase,Used,3216
+10726,bed,New,763
+10727,chair,Used,1223
+10728,TV stand,Used,3541
+10729,chest of drawers,Used,603
+10730,refrigerator,Used,3139
+10731,table,Used,264
+10732,refrigerator,Used,1509
+10733,lamps,New,236
+10734,chair,Used,1655
+10735,table,New,4554
+10736,chest of drawers,Used,2034
+10737,bookcase,New,2397
+10738,nightstand,Used,3939
+10739,coffee table,New,510
+10740,TV stand,Used,276
+10741,table,New,1495
+10742,TV stand,New,4846
+10743,table,New,2415
+10744,bookcase,New,938
+10745,chair,New,1878
+10746,chest of drawers,New,1743
+10747,coffee table,Used,3308
+10748,bookcase,Used,709
+10749,refrigerator,Used,4549
+10750,desk,New,2045
+10751,coffee table,New,2156
+10752,couch,Used,791
+10753,table,Used,3912
+10754,coffee table,New,4455
+10755,bookcase,Used,4985
+10756,bed,New,2552
+10757,bookcase,New,3851
+10758,couch,Used,1007
+10759,couch,New,2343
+10760,desk,New,2482
+10761,bookcase,New,1026
+10762,lamps,New,725
+10763,mattress,Used,4265
+10764,lamps,New,324
+10765,couch,New,3599
+10766,chest of drawers,New,719
+10767,bed,Used,3254
+10768,lamps,Used,534
+10769,chair,New,208
+10770,table,New,1148
+10771,mattress,Used,3558
+10772,TV stand,Used,2528
+10773,chest of drawers,Used,4832
+10774,table,Used,1612
+10775,desk,New,3247
+10776,mattress,New,3361
+10777,table,Used,367
+10778,couch,New,958
+10779,lamps,New,3842
+10780,lamps,New,3751
+10781,table,New,2777
+10782,bed,New,1412
+10783,table,New,1369
+10784,chest of drawers,Used,2843
+10785,desk,New,2595
+10786,mattress,New,2304
+10787,TV stand,Used,4941
+10788,table,Used,2976
+10789,chest of drawers,New,330
+10790,chest of drawers,New,1565
+10791,refrigerator,New,310
+10792,bookcase,Used,2147
+10793,chair,Used,2471
+10794,nightstand,Used,372
+10795,refrigerator,New,306
+10796,coffee table,New,2897
+10797,coffee table,New,2813
+10798,mattress,Used,346
+10799,bookcase,Used,4572
+10800,mattress,New,1949
+10801,lamps,New,2558
+10802,nightstand,New,656
+10803,table,New,2958
+10804,couch,Used,3504
+10805,nightstand,New,1850
+10806,bed,New,254
+10807,nightstand,New,3007
+10808,desk,Used,1758
+10809,refrigerator,New,3689
+10810,bed,Used,3180
+10811,nightstand,New,642
+10812,couch,New,5053
+10813,lamps,Used,3080
+10814,lamps,Used,2354
+10815,refrigerator,New,3807
+10816,coffee table,New,1172
+10817,couch,Used,344
+10818,bed,Used,2035
+10819,mattress,New,4399
+10820,refrigerator,Used,382
+10821,nightstand,Used,4204
+10822,chair,Used,592
+10823,couch,New,2490
+10824,chair,Used,1610
+10825,refrigerator,Used,202
+10826,chair,Used,1927
+10827,nightstand,New,4375
+10828,bookcase,Used,3434
+10829,nightstand,Used,3863
+10830,chair,Used,2592
+10831,coffee table,Used,4012
+10832,bed,New,1345
+10833,refrigerator,New,4494
+10834,mattress,Used,898
+10835,nightstand,New,1962
+10836,nightstand,Used,792
+10837,refrigerator,Used,3890
+10838,bed,Used,4192
+10839,refrigerator,New,2824
+10840,desk,New,2807
+10841,coffee table,Used,4709
+10842,lamps,New,855
+10843,bookcase,Used,3525
+10844,chair,Used,375
+10845,mattress,New,1537
+10846,bed,Used,3452
+10847,TV stand,New,1498
+10848,TV stand,Used,3507
+10849,table,New,2197
+10850,refrigerator,New,1834
+10851,TV stand,Used,4126
+10852,TV stand,New,487
+10853,table,Used,1630
+10854,mattress,New,430
+10855,bookcase,New,2377
+10856,couch,Used,4344
+10857,lamps,New,1299
+10858,chair,New,853
+10859,lamps,Used,4974
+10860,desk,Used,2765
+10861,coffee table,Used,4616
+10862,chair,New,1105
+10863,chair,New,3460
+10864,bed,Used,3552
+10865,chair,Used,255
+10866,chair,New,4428
+10867,TV stand,Used,4631
+10868,coffee table,Used,3499
+10869,TV stand,Used,4442
+10870,TV stand,Used,4764
+10871,nightstand,Used,3358
+10872,lamps,Used,726
+10873,refrigerator,Used,3901
+10874,TV stand,New,1756
+10875,nightstand,Used,2317
+10876,TV stand,New,4006
+10877,lamps,New,2977
+10878,refrigerator,Used,1736
+10879,chair,Used,2601
+10880,lamps,Used,1406
+10881,bookcase,New,3604
+10882,chest of drawers,New,4250
+10883,chest of drawers,Used,329
+10884,chair,Used,1822
+10885,mattress,Used,4400
+10886,chair,Used,2543
+10887,chest of drawers,Used,3931
+10888,TV stand,New,3852
+10889,lamps,New,4293
+10890,nightstand,Used,1062
+10891,chest of drawers,Used,2347
+10892,coffee table,Used,2177
+10893,chair,New,4288
+10894,coffee table,New,2406
+10895,mattress,Used,1401
+10896,mattress,Used,3283
+10897,chair,New,2543
+10898,nightstand,Used,120
+10899,nightstand,Used,660
+10900,TV stand,New,865
+10901,desk,New,1830
+10902,bed,New,114
+10903,chest of drawers,New,2484
+10904,TV stand,New,4781
+10905,desk,New,1550
+10906,bed,Used,343
+10907,chair,Used,2826
+10908,mattress,New,1550
+10909,mattress,Used,4059
+10910,chair,Used,1930
+10911,lamps,New,1311
+10912,mattress,New,2848
+10913,desk,Used,4808
+10914,mattress,Used,2647
+10915,chest of drawers,Used,3505
+10916,mattress,Used,3776
+10917,table,New,161
+10918,nightstand,Used,4656
+10919,chest of drawers,Used,1261
+10920,mattress,Used,2360
+10921,coffee table,Used,2487
+10922,bookcase,Used,2084
+10923,bed,Used,1892
+10924,mattress,Used,3529
+10925,chair,New,1830
+10926,lamps,New,2216
+10927,desk,New,1809
+10928,nightstand,New,4411
+10929,table,Used,1548
+10930,couch,New,3726
+10931,lamps,Used,3938
+10932,coffee table,New,2824
+10933,chair,New,3558
+10934,TV stand,Used,2926
+10935,chair,Used,4084
+10936,coffee table,New,4679
+10937,bed,New,4419
+10938,coffee table,Used,2498
+10939,chair,New,3911
+10940,chair,New,5014
+10941,TV stand,Used,1561
+10942,coffee table,New,1551
+10943,bed,New,3607
+10944,bed,New,2349
+10945,desk,New,2718
+10946,bed,Used,753
+10947,chair,Used,2621
+10948,coffee table,New,3497
+10949,desk,Used,4092
+10950,bookcase,Used,680
+10951,mattress,Used,4134
+10952,table,Used,1523
+10953,lamps,New,4367
+10954,bed,Used,3013
+10955,refrigerator,Used,1253
+10956,lamps,New,2360
+10957,desk,New,2598
+10958,bookcase,Used,3643
+10959,mattress,Used,2025
+10960,desk,Used,1296
+10961,chest of drawers,Used,2702
+10962,bed,New,908
+10963,refrigerator,Used,5083
+10964,table,New,2586
+10965,bed,Used,2191
+10966,bed,New,1819
+10967,table,Used,2203
+10968,lamps,Used,4254
+10969,desk,Used,3204
+10970,table,Used,4963
+10971,lamps,Used,4752
+10972,bed,Used,3647
+10973,couch,Used,4171
+10974,couch,New,2955
+10975,mattress,New,4929
+10976,chest of drawers,New,1418
+10977,TV stand,Used,2613
+10978,coffee table,New,4588
+10979,nightstand,Used,4800
+10980,coffee table,New,2028
+10981,bookcase,New,300
+10982,couch,Used,3376
+10983,chair,New,4425
+10984,mattress,Used,1214
+10985,bed,New,709
+10986,coffee table,New,1081
+10987,lamps,Used,2399
+10988,couch,New,3704
+10989,couch,New,2414
+10990,TV stand,Used,4696
+10991,table,Used,2863
+10992,table,Used,2071
+10993,bookcase,New,4326
+10994,bed,Used,570
+10995,chest of drawers,New,3109
+10996,coffee table,Used,2030
+10997,bookcase,Used,2545
+10998,desk,Used,4954
+10999,couch,New,2809
+11000,chest of drawers,Used,399
+11001,bed,Used,912
+11002,table,New,3518
+11003,bed,Used,1353
+11004,couch,New,2808
+11005,TV stand,Used,2199
+11006,chest of drawers,New,2483
+11007,refrigerator,Used,3578
+11008,chest of drawers,New,3411
+11009,chest of drawers,New,3730
+11010,table,Used,1397
+11011,TV stand,Used,3546
+11012,nightstand,New,4142
+11013,refrigerator,New,3695
+11014,desk,New,3719
+11015,coffee table,Used,2357
+11016,coffee table,New,4658
+11017,table,New,1977
+11018,mattress,Used,2333
+11019,mattress,Used,1735
+11020,coffee table,Used,3181
+11021,lamps,Used,1225
+11022,bookcase,Used,730
+11023,mattress,Used,3765
+11024,mattress,Used,3013
+11025,lamps,New,2141
+11026,chest of drawers,New,4342
+11027,mattress,Used,2163
+11028,mattress,Used,642
+11029,coffee table,Used,2777
+11030,couch,New,2542
+11031,nightstand,New,1190
+11032,couch,Used,3521
+11033,couch,Used,223
+11034,coffee table,Used,1654
+11035,desk,New,1960
+11036,couch,New,1830
+11037,couch,New,1572
+11038,desk,Used,912
+11039,bed,Used,1034
+11040,bookcase,Used,1135
+11041,desk,Used,2303
+11042,chest of drawers,Used,2011
+11043,bookcase,Used,4395
+11044,TV stand,New,3185
+11045,bookcase,New,3428
+11046,table,New,1719
+11047,bookcase,Used,3118
+11048,coffee table,New,370
+11049,coffee table,Used,149
+11050,chest of drawers,Used,2075
+11051,chair,New,3897
+11052,chest of drawers,New,904
+11053,TV stand,New,3719
+11054,bookcase,New,844
+11055,TV stand,Used,2859
+11056,couch,Used,5016
+11057,TV stand,Used,2315
+11058,bed,Used,1691
+11059,couch,Used,3070
+11060,bookcase,Used,1625
+11061,lamps,New,828
+11062,chest of drawers,New,1407
+11063,TV stand,New,1724
+11064,bookcase,New,2056
+11065,coffee table,Used,4504
+11066,refrigerator,Used,4725
+11067,chair,New,3779
+11068,chest of drawers,Used,4093
+11069,desk,Used,2203
+11070,bed,New,4764
+11071,chair,Used,2086
+11072,coffee table,Used,2816
+11073,TV stand,Used,4474
+11074,table,Used,4146
+11075,coffee table,New,237
+11076,desk,New,4732
+11077,lamps,Used,3179
+11078,chest of drawers,Used,4325
+11079,mattress,Used,2904
+11080,refrigerator,New,2592
+11081,coffee table,New,2323
+11082,table,Used,970
+11083,nightstand,Used,835
+11084,mattress,Used,1489
+11085,lamps,New,3450
+11086,couch,Used,2785
+11087,nightstand,Used,2386
+11088,nightstand,Used,4038
+11089,bed,Used,1864
+11090,TV stand,New,2695
+11091,nightstand,Used,3088
+11092,refrigerator,New,1927
+11093,table,New,4894
+11094,bed,New,2549
+11095,bed,Used,3744
+11096,coffee table,New,213
+11097,refrigerator,Used,3532
+11098,mattress,New,2781
+11099,bookcase,Used,3198
+11100,bed,New,108
+11101,mattress,Used,529
+11102,couch,New,3833
+11103,mattress,New,1364
+11104,refrigerator,Used,3931
+11105,bed,New,4032
+11106,nightstand,Used,974
+11107,TV stand,Used,2059
+11108,desk,Used,3234
+11109,coffee table,New,4186
+11110,chair,Used,574
+11111,TV stand,Used,2583
+11112,nightstand,Used,1433
+11113,refrigerator,Used,507
+11114,refrigerator,Used,3037
+11115,refrigerator,New,1742
+11116,coffee table,Used,3425
+11117,chest of drawers,Used,3801
+11118,chest of drawers,Used,1201
+11119,bookcase,Used,3387
+11120,mattress,New,602
+11121,chair,Used,4242
+11122,mattress,Used,3400
+11123,bookcase,Used,2160
+11124,TV stand,New,3608
+11125,nightstand,Used,3577
+11126,bed,New,3442
+11127,mattress,Used,2038
+11128,chair,Used,4134
+11129,chair,Used,4676
+11130,couch,Used,401
+11131,couch,Used,2050
+11132,mattress,Used,4078
+11133,bookcase,Used,4923
+11134,bookcase,New,4773
+11135,desk,New,4177
+11136,desk,Used,3962
+11137,mattress,New,4127
+11138,bookcase,Used,2194
+11139,chest of drawers,Used,2949
+11140,mattress,New,2913
+11141,couch,Used,2404
+11142,table,Used,4432
+11143,bookcase,Used,2734
+11144,table,Used,304
+11145,refrigerator,New,4861
+11146,table,New,1865
+11147,nightstand,New,4498
+11148,TV stand,Used,2653
+11149,refrigerator,New,1573
+11150,couch,Used,311
+11151,bookcase,New,3771
+11152,refrigerator,Used,388
+11153,refrigerator,Used,4100
+11154,coffee table,Used,342
+11155,bookcase,Used,350
+11156,TV stand,New,4838
+11157,nightstand,Used,3721
+11158,TV stand,New,4621
+11159,nightstand,Used,3939
+11160,bookcase,New,2063
+11161,mattress,New,3280
+11162,nightstand,New,2824
+11163,lamps,Used,473
+11164,couch,Used,396
+11165,bookcase,New,2439
+11166,refrigerator,Used,3719
+11167,bed,New,2677
+11168,nightstand,Used,314
+11169,nightstand,New,4226
+11170,chest of drawers,New,2810
+11171,bed,Used,3319
+11172,TV stand,Used,2026
+11173,table,Used,3266
+11174,mattress,Used,555
+11175,bookcase,Used,2204
+11176,mattress,Used,779
+11177,couch,Used,2450
+11178,desk,Used,5005
+11179,bookcase,Used,1935
+11180,desk,Used,2806
+11181,chair,Used,521
+11182,lamps,Used,3313
+11183,chair,Used,1827
+11184,chest of drawers,Used,2941
+11185,nightstand,Used,768
+11186,table,Used,3592
+11187,coffee table,Used,491
+11188,refrigerator,New,1910
+11189,TV stand,Used,108
+11190,TV stand,Used,3740
+11191,TV stand,Used,2919
+11192,refrigerator,Used,2355
+11193,chest of drawers,New,1329
+11194,chair,Used,3830
+11195,desk,Used,1080
+11196,chest of drawers,Used,1784
+11197,TV stand,Used,787
+11198,chair,Used,4295
+11199,desk,Used,1724
+11200,TV stand,Used,490
+11201,lamps,Used,1235
+11202,lamps,Used,4851
+11203,bed,New,152
+11204,TV stand,Used,778
+11205,chest of drawers,Used,4401
+11206,nightstand,New,3939
+11207,lamps,Used,2584
+11208,chair,New,4148
+11209,bookcase,Used,5020
+11210,bed,New,3151
+11211,chair,Used,1281
+11212,nightstand,Used,4779
+11213,mattress,Used,732
+11214,nightstand,Used,3922
+11215,desk,New,2467
+11216,table,Used,1945
+11217,nightstand,New,3553
+11218,bookcase,New,4605
+11219,TV stand,Used,3282
+11220,nightstand,New,4293
+11221,couch,New,2100
+11222,chair,Used,1709
+11223,chest of drawers,New,339
+11224,nightstand,New,1444
+11225,couch,New,2233
+11226,TV stand,New,4904
+11227,bed,New,2894
+11228,TV stand,Used,2331
+11229,desk,New,819
+11230,bed,Used,3541
+11231,lamps,New,4699
+11232,lamps,New,2298
+11233,nightstand,Used,4069
+11234,table,Used,2518
+11235,table,Used,4498
+11236,lamps,Used,1935
+11237,nightstand,New,671
+11238,nightstand,New,1745
+11239,desk,Used,1436
+11240,table,Used,1858
+11241,chair,New,2078
+11242,desk,New,3838
+11243,couch,Used,677
+11244,mattress,Used,2888
+11245,table,New,4656
+11246,coffee table,Used,2053
+11247,nightstand,Used,1673
+11248,mattress,New,2803
+11249,chair,Used,1891
+11250,chest of drawers,Used,4518
+11251,chest of drawers,Used,3822
+11252,desk,Used,1490
+11253,chair,New,1959
+11254,TV stand,New,4053
+11255,desk,New,2276
+11256,couch,Used,2151
+11257,chair,Used,2510
+11258,bookcase,New,3033
+11259,coffee table,New,3400
+11260,bed,New,4092
+11261,couch,Used,3951
+11262,bookcase,New,683
+11263,nightstand,New,4087
+11264,desk,New,2293
+11265,bookcase,New,1288
+11266,table,Used,4700
+11267,table,Used,3793
+11268,desk,Used,3245
+11269,desk,Used,3429
+11270,table,Used,2948
+11271,desk,New,2587
+11272,nightstand,New,4562
+11273,chest of drawers,Used,1396
+11274,bookcase,New,1712
+11275,bookcase,Used,381
+11276,chest of drawers,Used,2272
+11277,bookcase,New,3464
+11278,bed,Used,2719
+11279,chair,New,3744
+11280,coffee table,Used,834
+11281,chest of drawers,New,2209
+11282,mattress,New,4349
+11283,coffee table,Used,993
+11284,coffee table,Used,2042
+11285,lamps,Used,2083
+11286,desk,Used,2561
+11287,nightstand,Used,1135
+11288,mattress,Used,4473
+11289,bookcase,New,886
+11290,chair,Used,4340
+11291,desk,Used,4964
+11292,TV stand,Used,2678
+11293,coffee table,New,4634
+11294,nightstand,New,3400
+11295,bed,New,3794
+11296,desk,Used,5022
+11297,TV stand,Used,2679
+11298,desk,Used,735
+11299,desk,New,1613
+11300,bed,New,2534
+11301,nightstand,New,3236
+11302,mattress,Used,3936
+11303,lamps,New,3713
+11304,nightstand,Used,4721
+11305,couch,New,698
+11306,chair,New,204
+11307,chair,New,4194
+11308,couch,Used,2885
+11309,mattress,New,2879
+11310,mattress,Used,1803
+11311,chest of drawers,Used,2984
+11312,lamps,New,1051
+11313,bed,Used,3553
+11314,chair,New,4177
+11315,chest of drawers,Used,2287
+11316,coffee table,Used,118
+11317,desk,New,461
+11318,table,New,3376
+11319,bookcase,Used,3554
+11320,bed,New,3952
+11321,bookcase,New,2202
+11322,desk,Used,4493
+11323,couch,Used,541
+11324,desk,Used,2817
+11325,couch,Used,3435
+11326,couch,Used,3627
+11327,bookcase,Used,4048
+11328,bookcase,Used,3596
+11329,lamps,New,435
+11330,couch,New,1113
+11331,lamps,Used,4993
+11332,bookcase,Used,1745
+11333,coffee table,New,2688
+11334,couch,Used,1269
+11335,mattress,New,1901
+11336,mattress,Used,3291
+11337,bed,Used,4349
+11338,bookcase,Used,3965
+11339,TV stand,New,4051
+11340,table,New,797
+11341,table,New,1666
+11342,table,New,4717
+11343,lamps,New,703
+11344,table,New,2621
+11345,TV stand,New,4156
+11346,couch,New,2463
+11347,nightstand,New,2332
+11348,bed,New,3236
+11349,chest of drawers,Used,808
+11350,couch,Used,3879
+11351,TV stand,Used,775
+11352,table,Used,1223
+11353,lamps,New,285
+11354,chest of drawers,Used,607
+11355,bookcase,Used,4413
+11356,nightstand,New,2304
+11357,bookcase,Used,3012
+11358,table,New,3636
+11359,couch,Used,4580
+11360,table,Used,4079
+11361,lamps,New,1588
+11362,couch,New,1575
+11363,mattress,Used,1088
+11364,chest of drawers,Used,176
+11365,nightstand,New,2432
+11366,desk,Used,4647
+11367,lamps,New,1353
+11368,bookcase,Used,4520
+11369,coffee table,New,719
+11370,couch,New,2804
+11371,TV stand,New,1682
+11372,coffee table,New,4609
+11373,chair,New,3609
+11374,bookcase,New,2614
+11375,nightstand,New,2461
+11376,bed,Used,1422
+11377,chair,Used,2991
+11378,table,Used,3061
+11379,bookcase,New,854
+11380,couch,Used,2569
+11381,coffee table,New,4399
+11382,coffee table,New,4567
+11383,chair,New,4971
+11384,coffee table,New,2954
+11385,mattress,Used,3099
+11386,TV stand,New,4563
+11387,lamps,New,1902
+11388,couch,New,1012
+11389,mattress,New,3019
+11390,mattress,New,1338
+11391,nightstand,Used,4862
+11392,desk,New,4524
+11393,bookcase,Used,2612
+11394,chair,New,1039
+11395,chair,Used,4532
+11396,couch,New,3850
+11397,TV stand,New,3357
+11398,chest of drawers,Used,1387
+11399,bookcase,New,1773
+11400,coffee table,Used,4514
+11401,chair,Used,4530
+11402,bed,New,4871
+11403,bed,Used,2272
+11404,desk,New,1032
+11405,nightstand,Used,2164
+11406,bed,Used,2707
+11407,mattress,New,1299
+11408,couch,New,3855
+11409,table,Used,2597
+11410,bed,New,3598
+11411,chest of drawers,New,3217
+11412,bed,Used,1942
+11413,table,New,1067
+11414,chest of drawers,New,817
+11415,lamps,New,3671
+11416,coffee table,New,2156
+11417,nightstand,New,3837
+11418,chest of drawers,New,1208
+11419,desk,New,4347
+11420,mattress,New,3120
+11421,TV stand,New,2911
+11422,mattress,Used,4117
+11423,chest of drawers,Used,4039
+11424,mattress,Used,4180
+11425,lamps,New,552
+11426,chair,New,3802
+11427,table,New,3196
+11428,desk,New,1446
+11429,mattress,New,4518
+11430,nightstand,Used,1883
+11431,TV stand,New,656
+11432,chest of drawers,New,3172
+11433,mattress,Used,1037
+11434,bed,New,3743
+11435,table,Used,4949
+11436,bed,New,976
+11437,chest of drawers,Used,4765
+11438,couch,Used,1254
+11439,lamps,Used,2888
+11440,couch,New,3644
+11441,coffee table,Used,4586
+11442,chair,Used,2141
+11443,bookcase,New,912
+11444,lamps,Used,4413
+11445,coffee table,Used,1649
+11446,chair,New,1310
+11447,lamps,New,969
+11448,nightstand,Used,3477
+11449,nightstand,Used,1790
+11450,desk,Used,1968
+11451,coffee table,New,2735
+11452,TV stand,Used,4903
+11453,chest of drawers,Used,2895
+11454,chair,Used,2136
+11455,couch,Used,540
+11456,mattress,New,613
+11457,lamps,Used,660
+11458,chair,Used,1336
+11459,bookcase,New,367
+11460,chair,Used,2868
+11461,chest of drawers,New,453
+11462,desk,Used,1701
+11463,nightstand,Used,4021
+11464,desk,Used,637
+11465,coffee table,Used,3528
+11466,coffee table,Used,920
+11467,table,New,2490
+11468,desk,Used,2352
+11469,chair,Used,3065
+11470,TV stand,New,2257
+11471,chair,New,2709
+11472,mattress,New,3201
+11473,nightstand,New,522
+11474,mattress,Used,1637
+11475,desk,Used,281
+11476,chair,New,3107
+11477,desk,New,2638
+11478,coffee table,New,4890
+11479,TV stand,Used,3131
+11480,TV stand,Used,4997
+11481,bed,New,1227
+11482,couch,New,4795
+11483,TV stand,Used,2044
+11484,TV stand,Used,3485
+11485,bed,Used,1536
+11486,chair,Used,2138
+11487,chest of drawers,Used,2473
+11488,coffee table,New,2613
+11489,nightstand,Used,2793
+11490,coffee table,New,4350
+11491,chest of drawers,New,2756
+11492,couch,New,4086
+11493,couch,Used,540
+11494,desk,New,2297
+11495,couch,New,4552
+11496,chest of drawers,New,1598
+11497,bed,Used,1923
+11498,mattress,New,166
+11499,coffee table,Used,4143
+11500,TV stand,New,3917
+11501,coffee table,New,3941
+11502,coffee table,New,3193
+11503,chair,Used,3113
+11504,mattress,New,2047
+11505,table,New,2613
+11506,nightstand,New,3151
+11507,desk,Used,1939
+11508,bookcase,New,2999
+11509,table,Used,479
+11510,chest of drawers,New,1676
+11511,bookcase,Used,4382
+11512,nightstand,New,1538
+11513,table,Used,4272
+11514,mattress,Used,4771
+11515,nightstand,Used,2608
+11516,bed,New,604
+11517,chair,New,675
+11518,bookcase,New,433
+11519,nightstand,Used,625
+11520,chair,New,1656
+11521,chest of drawers,Used,2661
+11522,TV stand,Used,2711
+11523,desk,Used,4482
+11524,nightstand,Used,4545
+11525,bed,New,4494
+11526,chair,New,4883
+11527,nightstand,New,3683
+11528,lamps,New,947
+11529,lamps,Used,2113
+11530,nightstand,New,2587
+11531,chest of drawers,Used,4304
+11532,TV stand,Used,4332
+11533,bookcase,Used,3376
+11534,chair,New,4992
+11535,bed,New,453
+11536,mattress,Used,1644
+11537,table,New,503
+11538,bookcase,Used,2526
+11539,TV stand,New,2563
+11540,chair,New,4181
+11541,lamps,Used,1456
+11542,table,New,3821
+11543,desk,Used,963
+11544,bed,New,3088
+11545,desk,Used,1877
+11546,bookcase,New,130
+11547,lamps,New,944
+11548,TV stand,New,4607
+11549,couch,Used,1932
+11550,bed,Used,2285
+11551,nightstand,Used,2160
+11552,nightstand,New,3763
+11553,bed,New,2119
+11554,couch,New,4406
+11555,mattress,Used,1528
+11556,chest of drawers,Used,1072
+11557,TV stand,Used,2982
+11558,couch,New,2984
+11559,desk,New,4809
+11560,chair,Used,466
+11561,lamps,Used,3556
+11562,bed,New,818
+11563,bookcase,Used,3130
+11564,coffee table,Used,2539
+11565,nightstand,Used,1918
+11566,table,Used,4793
+11567,bookcase,New,451
+11568,mattress,New,1905
+11569,chest of drawers,Used,3517
+11570,TV stand,Used,4827
+11571,lamps,Used,4676
+11572,couch,New,2301
+11573,couch,New,3288
+11574,chest of drawers,New,4318
+11575,lamps,New,1749
+11576,coffee table,New,2159
+11577,TV stand,New,4898
+11578,bed,Used,4653
+11579,chest of drawers,New,2997
+11580,bookcase,Used,2159
+11581,bed,Used,2294
+11582,bookcase,Used,2011
+11583,table,Used,4427
+11584,couch,New,4115
+11585,lamps,New,2497
+11586,desk,New,3004
+11587,mattress,Used,4240
+11588,chest of drawers,New,2861
+11589,coffee table,Used,1511
+11590,chair,Used,1138
+11591,table,New,1416
+11592,bookcase,New,1141
+11593,coffee table,New,2371
+11594,coffee table,New,3497
+11595,coffee table,Used,1681
+11596,desk,Used,3193
+11597,bed,Used,4921
+11598,coffee table,New,4527
+11599,chair,New,3268
+11600,bed,New,3005
+11601,bookcase,New,1066
+11602,chair,New,4359
+11603,bookcase,Used,4657
+11604,lamps,New,3845
+11605,coffee table,New,2325
+11606,desk,Used,4352
+11607,desk,Used,3957
+11608,coffee table,New,3659
+11609,chest of drawers,Used,2864
+11610,bookcase,New,1558
+11611,mattress,New,3121
+11612,chair,Used,3093
+11613,coffee table,New,4374
+11614,bed,Used,3869
+11615,chest of drawers,New,2374
+11616,TV stand,Used,3149
+11617,couch,Used,146
+11618,bed,New,734
+11619,chest of drawers,New,2462
+11620,mattress,Used,4256
+11621,bookcase,New,2161
+11622,bookcase,New,3993
+11623,coffee table,New,3899
+11624,TV stand,New,934
+11625,chair,New,746
+11626,bookcase,New,646
+11627,mattress,New,1722
+11628,couch,Used,3959
+11629,TV stand,New,2584
+11630,desk,Used,4968
+11631,lamps,Used,2592
+11632,coffee table,New,1713
+11633,couch,New,4840
+11634,couch,New,3935
+11635,couch,New,2007
+11636,mattress,Used,1201
+11637,mattress,New,370
+11638,TV stand,New,2384
+11639,mattress,New,450
+11640,TV stand,New,2069
+11641,lamps,New,2462
+11642,TV stand,Used,1955
+11643,chest of drawers,Used,3620
+11644,coffee table,Used,3170
+11645,couch,New,3565
+11646,lamps,New,2921
+11647,mattress,New,3838
+11648,nightstand,New,2528
+11649,table,Used,4848
+11650,TV stand,New,743
+11651,bed,Used,3838
+11652,bookcase,New,2694
+11653,bed,Used,2671
+11654,mattress,New,2715
+11655,TV stand,Used,3983
+11656,TV stand,New,4857
+11657,chest of drawers,New,4058
+11658,mattress,New,2209
+11659,desk,Used,3496
+11660,couch,New,426
+11661,coffee table,New,3500
+11662,TV stand,Used,4338
+11663,couch,New,427
+11664,desk,New,3527
+11665,TV stand,Used,3273
+11666,coffee table,New,4364
+11667,table,Used,397
+11668,TV stand,New,693
+11669,bed,New,4302
+11670,lamps,Used,685
+11671,chest of drawers,Used,1097
+11672,bed,Used,3035
+11673,lamps,Used,4188
+11674,chair,New,981
+11675,table,New,3899
+11676,bookcase,New,2777
+11677,nightstand,Used,3609
+11678,bookcase,New,3576
+11679,coffee table,Used,2425
+11680,lamps,New,2188
+11681,table,Used,317
+11682,chest of drawers,Used,2956
+11683,nightstand,New,2210
+11684,chair,Used,3218
+11685,chair,Used,791
+11686,desk,Used,4112
+11687,bed,Used,905
+11688,mattress,New,209
+11689,mattress,Used,3671
+11690,bed,New,2776
+11691,chest of drawers,Used,3337
+11692,lamps,New,3001
+11693,mattress,Used,1670
+11694,coffee table,New,3453
+11695,bookcase,New,315
+11696,coffee table,Used,4744
+11697,coffee table,Used,2737
+11698,coffee table,Used,4181
+11699,chair,Used,926
+11700,chest of drawers,New,3754
+11701,coffee table,New,4725
+11702,table,New,1128
+11703,couch,Used,1976
+11704,lamps,New,2472
+11705,couch,Used,796
+11706,couch,Used,3880
+11707,bookcase,New,839
+11708,chair,New,5060
+11709,couch,Used,2420
+11710,coffee table,Used,2122
+11711,coffee table,Used,435
+11712,TV stand,Used,2446
+11713,nightstand,Used,340
+11714,desk,Used,3041
+11715,nightstand,New,3631
+11716,table,Used,2297
+11717,mattress,New,113
+11718,chest of drawers,Used,929
+11719,couch,New,4151
+11720,coffee table,Used,2662
+11721,lamps,New,4695
+11722,table,New,720
+11723,table,Used,3387
+11724,couch,Used,2981
+11725,chest of drawers,New,3377
+11726,chest of drawers,Used,5027
+11727,bed,New,3607
+11728,couch,New,1249
+11729,coffee table,Used,3997
+11730,chair,New,1065
+11731,mattress,New,3613
+11732,chest of drawers,New,3760
+11733,couch,Used,2779
+11734,desk,New,2578
+11735,desk,Used,4354
+11736,bed,New,4122
+11737,chair,New,586
+11738,chair,New,3292
+11739,desk,Used,2575
+11740,desk,Used,1303
+11741,table,New,2289
+11742,bed,Used,3336
+11743,bed,Used,768
+11744,chest of drawers,Used,1700
+11745,lamps,Used,3500
+11746,lamps,New,5055
+11747,bed,Used,4917
+11748,chest of drawers,Used,3142
+11749,nightstand,Used,1834
+11750,mattress,Used,222
+11751,TV stand,Used,2095
+11752,lamps,New,4084
+11753,bookcase,New,443
+11754,coffee table,New,1307
+11755,chair,New,3717
+11756,bookcase,New,4295
+11757,mattress,Used,1221
+11758,chair,New,1363
+11759,bed,Used,2086
+11760,mattress,Used,4277
+11761,bed,New,780
+11762,bed,New,261
+11763,lamps,New,3772
+11764,mattress,New,4569
+11765,lamps,Used,1594
+11766,coffee table,New,938
+11767,coffee table,New,1657
+11768,couch,Used,1426
+11769,chair,Used,4561
+11770,nightstand,Used,1063
+11771,bed,New,1774
+11772,chest of drawers,Used,4388
+11773,bookcase,New,313
+11774,table,Used,2627
+11775,TV stand,New,4820
+11776,table,Used,2820
+11777,bookcase,New,3384
+11778,bed,New,2885
+11779,bed,Used,1912
+11780,bookcase,New,762
+11781,bed,New,4211
+11782,nightstand,New,3770
+11783,nightstand,New,2537
+11784,chair,New,2398
+11785,lamps,New,1677
+11786,lamps,New,186
+11787,coffee table,Used,1924
+11788,chair,New,2023
+11789,bed,Used,1693
+11790,mattress,Used,5003
+11791,nightstand,Used,327
+11792,bed,New,4707
+11793,chest of drawers,New,4845
+11794,bed,Used,4097
+11795,mattress,Used,1410
+11796,couch,Used,4470
+11797,bed,New,4280
+11798,TV stand,Used,1919
+11799,nightstand,New,291
+11800,TV stand,New,1126
+11801,bookcase,New,966
+11802,bookcase,Used,795
+11803,bookcase,Used,1668
+11804,lamps,Used,591
+11805,desk,New,2467
+11806,couch,New,2425
+11807,bookcase,Used,2861
+11808,chest of drawers,Used,4050
+11809,coffee table,Used,515
+11810,chest of drawers,Used,2682
+11811,chest of drawers,New,2271
+11812,coffee table,Used,587
+11813,bookcase,Used,2208
+11814,desk,Used,3844
+11815,bookcase,Used,2812
+11816,desk,Used,1214
+11817,chest of drawers,New,3330
+11818,couch,New,176
+11819,mattress,New,1101
+11820,nightstand,Used,3581
+11821,table,New,2027
+11822,nightstand,Used,2458
+11823,couch,New,3764
+11824,mattress,Used,4629
+11825,mattress,New,3636
+11826,nightstand,Used,108
+11827,mattress,Used,3117
+11828,bookcase,Used,755
+11829,bed,Used,3866
+11830,bookcase,Used,4123
+11831,coffee table,Used,1231
+11832,coffee table,Used,242
+11833,bookcase,Used,2797
+11834,nightstand,Used,1039
+11835,nightstand,Used,2365
+11836,nightstand,New,2367
+11837,chest of drawers,New,815
+11838,desk,Used,2719
+11839,TV stand,Used,2126
+11840,bed,Used,4401
+11841,bed,Used,3620
+11842,chair,New,762
+11843,chair,New,4237
+11844,chair,New,3012
+11845,chest of drawers,New,3607
+11846,TV stand,New,2040
+11847,desk,New,3968
+11848,bed,Used,2664
+11849,table,New,3638
+11850,TV stand,Used,3047
+11851,TV stand,New,3230
+11852,desk,Used,1349
+11853,TV stand,New,3848
+11854,lamps,New,4434
+11855,chair,New,2807
+11856,bookcase,New,3553
+11857,TV stand,New,1946
+11858,mattress,New,3034
+11859,table,Used,4890
+11860,bed,New,4978
+11861,TV stand,New,3218
+11862,table,New,3100
+11863,TV stand,New,253
+11864,chest of drawers,New,4412
+11865,TV stand,Used,621
+11866,chair,Used,3122
+11867,desk,Used,2578
+11868,chair,New,3484
+11869,bed,New,1454
+11870,TV stand,Used,1933
+11871,couch,New,4933
+11872,lamps,Used,567
+11873,chest of drawers,Used,3401
+11874,mattress,Used,3648
+11875,lamps,New,1088
+11876,desk,New,252
+11877,desk,Used,1803
+11878,chest of drawers,New,3948
+11879,nightstand,Used,2754
+11880,TV stand,Used,1629
+11881,lamps,Used,168
+11882,chest of drawers,New,1641
+11883,nightstand,Used,3634
+11884,mattress,Used,201
+11885,table,New,3661
+11886,lamps,New,523
+11887,bookcase,New,4227
+11888,bed,Used,715
+11889,nightstand,New,505
+11890,mattress,New,2419
+11891,lamps,New,4127
+11892,couch,Used,575
+11893,bookcase,New,4008
+11894,desk,Used,3103
+11895,bed,Used,1677
+11896,bed,New,3437
+11897,desk,Used,1543
+11898,bookcase,Used,4011
+11899,mattress,Used,2521
+11900,nightstand,New,127
+11901,coffee table,New,582
+11902,bookcase,Used,1354
+11903,desk,Used,4729
+11904,coffee table,Used,4191
+11905,table,New,3533
+11906,bed,New,2020
+11907,mattress,Used,1930
+11908,bookcase,New,1813
+11909,desk,New,3099
+11910,bed,New,1313
+11911,table,New,4814
+11912,lamps,Used,1120
+11913,desk,New,1426
+11914,mattress,New,501
+11915,coffee table,Used,112
+11916,mattress,New,4802
+11917,chair,New,1191
+11918,bed,Used,2372
+11919,mattress,Used,1960
+11920,chair,Used,912
+11921,chest of drawers,Used,1380
+11922,mattress,New,2775
+11923,coffee table,Used,3466
+11924,table,Used,1919
+11925,chest of drawers,New,5079
+11926,TV stand,Used,4326
+11927,table,New,1692
+11928,bookcase,Used,1610
+11929,chest of drawers,Used,2005
+11930,table,Used,4200
+11931,chair,Used,1939
+11932,mattress,Used,661
+11933,chair,New,4288
+11934,couch,New,1979
+11935,desk,Used,2358
+11936,desk,New,4998
+11937,chair,Used,951
+11938,coffee table,Used,4745
+11939,table,New,3418
+11940,desk,Used,3631
+11941,couch,New,1091
+11942,bed,New,835
+11943,nightstand,New,2708
+11944,desk,New,1863
+11945,TV stand,Used,225
+11946,table,Used,2351
+11947,TV stand,Used,1435
+11948,table,New,1751
+11949,nightstand,Used,2938
+11950,lamps,Used,1334
+11951,chest of drawers,Used,397
+11952,TV stand,New,424
+11953,table,Used,3004
+11954,table,Used,2664
+11955,TV stand,New,2162
+11956,lamps,New,3537
+11957,table,New,511
+11958,chest of drawers,Used,2706
+11959,TV stand,Used,3515
+11960,coffee table,New,4429
+11961,chest of drawers,New,2070
+11962,lamps,Used,1442
+11963,couch,Used,2678
+11964,couch,New,1217
+11965,desk,Used,1401
+11966,nightstand,New,2554
+11967,table,New,1722
+11968,coffee table,Used,4297
+11969,bed,Used,2392
+11970,mattress,New,3701
+11971,coffee table,New,4421
+11972,bookcase,New,4411
+11973,table,New,2669
+11974,mattress,Used,3916
+11975,nightstand,Used,1132
+11976,mattress,New,3962
+11977,coffee table,Used,4349
+11978,table,New,662
+11979,mattress,Used,1280
+11980,table,Used,3438
+11981,bed,Used,1811
+11982,coffee table,New,4351
+11983,desk,New,3849
+11984,TV stand,Used,1475
+11985,nightstand,Used,694
+11986,table,New,2360
+11987,table,New,3741
+11988,mattress,New,692
+11989,coffee table,New,2873
+11990,chest of drawers,Used,1168
+11991,bed,Used,3427
+11992,TV stand,New,2406
+11993,chair,Used,1296
+11994,lamps,Used,4093
+11995,bed,Used,127
+11996,mattress,New,4686
+11997,lamps,New,3480
+11998,chest of drawers,New,3944
+11999,lamps,New,4258
+12000,mattress,New,2058
+12001,table,Used,4655
+12002,table,Used,1823
+12003,bed,Used,1087
+12004,bookcase,Used,958
+12005,table,New,2400
+12006,TV stand,New,519
+12007,TV stand,Used,144
+12008,bed,Used,4792
+12009,chest of drawers,Used,4661
+12010,nightstand,New,997
+12011,TV stand,New,1927
+12012,lamps,New,1022
+12013,nightstand,Used,4221
+12014,mattress,Used,1528
+12015,coffee table,Used,1677
+12016,mattress,Used,2484
+12017,coffee table,Used,2437
+12018,nightstand,New,2612
+12019,nightstand,New,3298
+12020,bookcase,New,1110
+12021,nightstand,Used,4060
+12022,nightstand,Used,4607
+12023,table,Used,3841
+12024,bookcase,New,4155
+12025,chest of drawers,New,1996
+12026,table,New,3859
+12027,mattress,New,2144
+12028,couch,New,710
+12029,chair,Used,2695
+12030,coffee table,Used,2573
+12031,TV stand,New,2709
+12032,bookcase,Used,4386
+12033,couch,New,1503
+12034,mattress,New,1266
+12035,desk,New,4831
+12036,coffee table,New,2641
+12037,chest of drawers,Used,3305
+12038,bed,New,2729
+12039,bookcase,Used,1697
+12040,table,New,1532
+12041,desk,New,523
+12042,bed,Used,2688
+12043,coffee table,New,4829
+12044,coffee table,Used,300
+12045,chair,Used,1771
+12046,lamps,New,3447
+12047,couch,Used,2260
+12048,lamps,New,2913
+12049,coffee table,Used,3292
+12050,mattress,New,1285
+12051,bed,New,703
+12052,chair,New,4082
+12053,lamps,Used,2666
+12054,bookcase,New,1927
+12055,bed,Used,683
+12056,bookcase,New,4337
+12057,chest of drawers,Used,3995
+12058,coffee table,Used,3367
+12059,chest of drawers,Used,400
+12060,TV stand,New,498
+12061,bed,New,3538
+12062,chest of drawers,Used,1802
+12063,TV stand,New,3507
+12064,nightstand,New,3216
+12065,lamps,New,2597
+12066,chest of drawers,Used,1339
+12067,couch,Used,3979
+12068,mattress,Used,2345
+12069,coffee table,New,3450
+12070,coffee table,Used,196
+12071,chest of drawers,New,4659
+12072,bookcase,Used,134
+12073,couch,New,2621
+12074,bed,Used,3846
+12075,bookcase,New,1257
+12076,bookcase,Used,1580
+12077,TV stand,New,1711
+12078,bed,New,4794
+12079,table,Used,1013
+12080,bookcase,New,2106
+12081,bookcase,Used,3872
+12082,chair,Used,3344
+12083,desk,Used,1825
+12084,couch,Used,3202
+12085,chest of drawers,Used,386
+12086,coffee table,Used,3858
+12087,TV stand,Used,4559
+12088,mattress,Used,3573
+12089,couch,Used,2430
+12090,chest of drawers,Used,5015
+12091,nightstand,Used,3954
+12092,table,New,2026
+12093,lamps,Used,2348
+12094,chair,Used,464
+12095,coffee table,New,742
+12096,bed,Used,4436
+12097,bed,New,1828
+12098,couch,New,4142
+12099,table,New,4347
+12100,mattress,Used,1234
+12101,bed,New,4108
+12102,nightstand,Used,723
+12103,chest of drawers,Used,3349
+12104,chair,Used,4826
+12105,chair,Used,2419
+12106,TV stand,New,729
+12107,coffee table,Used,2827
+12108,mattress,Used,4575
+12109,chest of drawers,New,2765
+12110,TV stand,New,4232
+12111,chair,New,1402
+12112,mattress,New,4280
+12113,coffee table,Used,4533
+12114,mattress,New,4485
+12115,bed,New,2350
+12116,bed,New,3339
+12117,TV stand,New,4023
+12118,coffee table,New,1655
+12119,bed,New,4458
+12120,lamps,Used,763
+12121,table,Used,2734
+12122,bookcase,New,1143
+12123,coffee table,Used,3569
+12124,nightstand,New,310
+12125,chest of drawers,Used,5005
+12126,desk,Used,4890
+12127,TV stand,New,2024
+12128,chest of drawers,Used,4648
+12129,coffee table,New,3368
+12130,bookcase,New,1859
+12131,desk,New,4213
+12132,bookcase,New,4312
+12133,nightstand,New,694
+12134,chest of drawers,New,4272
+12135,mattress,Used,3620
+12136,desk,Used,745
+12137,bookcase,New,3376
+12138,table,Used,1173
+12139,lamps,Used,3874
+12140,desk,Used,3471
+12141,chair,Used,4872
+12142,nightstand,New,4274
+12143,nightstand,New,600
+12144,lamps,New,3021
+12145,TV stand,Used,4760
+12146,desk,Used,754
+12147,couch,Used,2888
+12148,TV stand,Used,4011
+12149,chair,Used,4300
+12150,chair,New,2017
+12151,chair,New,1836
+12152,desk,Used,2025
+12153,coffee table,Used,4150
+12154,mattress,New,2409
+12155,nightstand,New,831
+12156,chest of drawers,New,625
+12157,table,Used,240
+12158,chair,Used,4459
+12159,bookcase,Used,1939
+12160,table,Used,4638
+12161,coffee table,New,4350
+12162,desk,Used,959
+12163,bookcase,Used,4036
+12164,lamps,New,4317
+12165,bed,Used,2185
+12166,coffee table,New,443
+12167,mattress,Used,452
+12168,coffee table,New,4485
+12169,TV stand,Used,3520
+12170,TV stand,Used,3274
+12171,table,Used,2484
+12172,chest of drawers,New,3237
+12173,coffee table,Used,1561
+12174,bookcase,Used,538
+12175,table,Used,4577
+12176,couch,Used,4879
+12177,table,Used,853
+12178,coffee table,Used,1159
+12179,mattress,New,530
+12180,chair,New,1634
+12181,chair,New,1740
+12182,mattress,New,2326
+12183,desk,New,4259
+12184,couch,Used,1884
+12185,chest of drawers,Used,1204
+12186,bookcase,Used,912
+12187,desk,New,759
+12188,nightstand,New,592
+12189,bookcase,New,3505
+12190,desk,Used,4288
+12191,nightstand,Used,3005
+12192,nightstand,Used,184
+12193,nightstand,New,4834
+12194,desk,New,458
+12195,coffee table,New,2575
+12196,desk,Used,447
+12197,coffee table,Used,5039
+12198,lamps,New,2510
+12199,coffee table,New,2310
+12200,nightstand,Used,2333
+12201,table,Used,956
+12202,lamps,New,4148
+12203,table,Used,238
+12204,nightstand,Used,841
+12205,desk,Used,466
+12206,table,New,1856
+12207,chest of drawers,New,4252
+12208,table,Used,2778
+12209,table,Used,4590
+12210,mattress,New,1291
+12211,mattress,New,1265
+12212,coffee table,New,1738
+12213,chair,New,3941
+12214,TV stand,New,3944
+12215,lamps,Used,2230
+12216,mattress,Used,4394
+12217,table,Used,2199
+12218,chair,New,3957
+12219,chest of drawers,Used,5034
+12220,mattress,Used,2118
+12221,coffee table,New,2679
+12222,lamps,New,4053
+12223,bed,Used,3638
+12224,lamps,New,2616
+12225,mattress,Used,3182
+12226,coffee table,Used,681
+12227,bed,New,1677
+12228,mattress,Used,5065
+12229,TV stand,Used,4851
+12230,bed,New,2897
+12231,lamps,New,5068
+12232,desk,Used,4824
+12233,couch,Used,2088
+12234,TV stand,Used,1246
+12235,bookcase,Used,965
+12236,bookcase,New,1201
+12237,coffee table,New,1709
+12238,chair,New,3270
+12239,coffee table,New,3446
+12240,coffee table,Used,351
+12241,lamps,New,3951
+12242,TV stand,Used,3525
+12243,chair,New,4969
+12244,chest of drawers,New,2834
+12245,desk,Used,945
+12246,table,New,177
+12247,chest of drawers,New,1649
+12248,table,Used,2280
+12249,coffee table,Used,2941
+12250,nightstand,Used,3543
+12251,chair,New,411
+12252,bookcase,New,3222
+12253,desk,Used,2402
+12254,TV stand,New,1292
+12255,bookcase,Used,250
+12256,bookcase,Used,2471
+12257,bed,Used,4883
+12258,bed,New,200
+12259,chest of drawers,New,195
+12260,bed,Used,3073
+12261,bed,New,3245
+12262,chest of drawers,New,2440
+12263,table,New,3496
+12264,couch,New,623
+12265,chair,New,961
+12266,TV stand,Used,3955
+12267,table,Used,4289
+12268,coffee table,New,4865
+12269,chair,New,4721
+12270,lamps,Used,432
+12271,table,Used,4487
+12272,nightstand,New,2000
+12273,chest of drawers,New,703
+12274,lamps,New,2649
+12275,coffee table,New,3865
+12276,lamps,Used,3947
+12277,nightstand,New,4098
+12278,TV stand,New,3236
+12279,table,New,1010
+12280,chair,New,1140
+12281,chest of drawers,New,2554
+12282,bed,Used,5021
+12283,table,New,1451
+12284,mattress,Used,3197
+12285,mattress,New,2841
+12286,couch,New,1421
+12287,bookcase,Used,2381
+12288,TV stand,Used,572
+12289,chest of drawers,New,2602
+12290,bed,New,1271
+12291,coffee table,Used,4454
+12292,bookcase,New,4195
+12293,desk,New,2778
+12294,table,Used,4320
+12295,desk,Used,3146
+12296,nightstand,Used,4076
+12297,desk,New,503
+12298,coffee table,New,1164
+12299,TV stand,Used,2370
+12300,TV stand,Used,442
+12301,coffee table,New,1857
+12302,bed,New,4617
+12303,coffee table,New,896
+12304,table,Used,2413
+12305,chair,Used,2557
+12306,bed,New,2994
+12307,lamps,Used,4181
+12308,nightstand,New,880
+12309,couch,Used,1085
+12310,bookcase,Used,3162
+12311,bookcase,Used,899
+12312,coffee table,Used,2438
+12313,nightstand,Used,2513
+12314,bookcase,New,1651
+12315,bed,New,923
+12316,lamps,New,3995
+12317,chair,Used,837
+12318,mattress,New,1684
+12319,desk,New,5054
+12320,coffee table,New,2916
+12321,chair,New,4009
+12322,couch,New,4451
+12323,coffee table,Used,2921
+12324,couch,Used,3350
+12325,nightstand,Used,1512
+12326,TV stand,New,4442
+12327,TV stand,New,4882
+12328,table,New,4565
+12329,mattress,Used,2705
+12330,mattress,Used,3345
+12331,chair,Used,5027
+12332,lamps,New,266
+12333,coffee table,Used,898
+12334,desk,New,5015
+12335,bed,Used,2454
+12336,chair,Used,1340
+12337,chair,Used,1522
+12338,nightstand,Used,1887
+12339,TV stand,New,331
+12340,coffee table,New,3518
+12341,couch,Used,729
+12342,TV stand,Used,4316
+12343,coffee table,Used,2583
+12344,couch,Used,757
+12345,chair,New,915
+12346,nightstand,Used,2666
+12347,couch,Used,598
+12348,TV stand,New,1376
+12349,TV stand,Used,4041
+12350,coffee table,Used,1560
+12351,bed,Used,1588
+12352,nightstand,New,3764
+12353,TV stand,Used,1661
+12354,table,New,1971
+12355,mattress,New,1883
+12356,chest of drawers,New,361
+12357,couch,New,4613
+12358,chest of drawers,Used,2733
+12359,chest of drawers,Used,1437
+12360,nightstand,Used,677
+12361,table,Used,3777
+12362,TV stand,Used,1564
+12363,lamps,New,261
+12364,bookcase,New,2611
+12365,chair,New,4550
+12366,coffee table,New,4616
+12367,mattress,Used,2408
+12368,bed,Used,2240
+12369,mattress,New,2431
+12370,bookcase,New,808
+12371,coffee table,New,2819
+12372,nightstand,New,3143
+12373,bookcase,Used,3567
+12374,bed,New,2490
+12375,coffee table,Used,3368
+12376,chair,New,1914
+12377,desk,Used,871
+12378,coffee table,New,4846
+12379,chair,Used,1476
+12380,chair,New,3414
+12381,table,New,578
+12382,chest of drawers,Used,3617
+12383,table,New,3188
+12384,couch,New,2072
+12385,nightstand,Used,3294
+12386,TV stand,New,2348
+12387,bookcase,New,4353
+12388,chest of drawers,Used,4421
+12389,table,Used,1889
+12390,nightstand,Used,2884
+12391,TV stand,Used,4771
+12392,lamps,New,3885
+12393,chest of drawers,Used,5096
+12394,bookcase,New,4333
+12395,nightstand,Used,1067
+12396,coffee table,Used,2631
+12397,couch,Used,4803
+12398,chair,Used,3837
+12399,mattress,New,4959
+12400,table,New,475
+12401,couch,Used,2815
+12402,chest of drawers,Used,613
+12403,bookcase,Used,1631
+12404,nightstand,New,3467
+12405,lamps,Used,2815
+12406,TV stand,Used,4242
+12407,couch,Used,1297
+12408,nightstand,New,4052
+12409,bookcase,New,2980
+12410,TV stand,New,391
+12411,nightstand,Used,4698
+12412,table,New,1195
+12413,bed,New,4009
+12414,bookcase,New,1253
+12415,TV stand,New,2619
+12416,bed,Used,2988
+12417,nightstand,Used,2070
+12418,chair,Used,4269
+12419,bookcase,New,995
+12420,table,Used,3159
+12421,desk,Used,3980
+12422,TV stand,New,2699
+12423,lamps,New,1170
+12424,mattress,New,4417
+12425,couch,Used,3504
+12426,desk,Used,2705
+12427,bookcase,New,2642
+12428,nightstand,New,2199
+12429,chair,Used,2503
+12430,bed,Used,1471
+12431,mattress,New,2237
+12432,coffee table,Used,1256
+12433,mattress,Used,2778
+12434,TV stand,New,2140
+12435,mattress,Used,4429
+12436,bed,Used,3696
+12437,desk,Used,2277
+12438,chair,Used,1706
+12439,chair,New,3137
+12440,bookcase,New,2800
+12441,bed,Used,2269
+12442,lamps,New,1889
+12443,desk,New,600
+12444,lamps,Used,1670
+12445,table,New,5038
+12446,lamps,New,4571
+12447,TV stand,New,1792
+12448,bed,New,4607
+12449,bookcase,Used,2471
+12450,lamps,New,2848
+12451,chair,New,4272
+12452,table,Used,884
+12453,desk,Used,3851
+12454,bookcase,Used,4183
+12455,chest of drawers,New,228
+12456,desk,New,3918
+12457,TV stand,Used,4839
+12458,couch,New,5008
+12459,couch,New,1811
+12460,TV stand,New,129
+12461,bookcase,Used,961
+12462,chair,New,1188
+12463,coffee table,New,4702
+12464,coffee table,Used,1272
+12465,bed,Used,4023
+12466,coffee table,New,3571
+12467,mattress,Used,922
+12468,chair,New,3893
+12469,TV stand,Used,4963
+12470,bed,Used,3140
+12471,coffee table,Used,508
+12472,couch,New,4308
+12473,bed,Used,3238
+12474,mattress,New,905
+12475,coffee table,New,1910
+12476,TV stand,New,3582
+12477,couch,New,4254
+12478,table,New,3580
+12479,desk,Used,3620
+12480,desk,New,4926
+12481,coffee table,Used,4309
+12482,chair,Used,3013
+12483,couch,Used,673
+12484,nightstand,Used,149
+12485,desk,New,4350
+12486,coffee table,Used,4852
+12487,TV stand,Used,4890
+12488,bookcase,Used,4915
+12489,couch,New,5007
+12490,chair,New,4410
+12491,TV stand,New,887
+12492,lamps,Used,3121
+12493,bookcase,Used,2241
+12494,bed,Used,405
+12495,table,New,4564
+12496,mattress,Used,4112
+12497,bed,New,440
+12498,couch,Used,1766
+12499,desk,New,667
+12500,chair,New,4597
+12501,bookcase,New,802
+12502,TV stand,Used,978
+12503,lamps,Used,1985
+12504,bookcase,Used,3759
+12505,coffee table,New,4223
+12506,TV stand,New,3233
+12507,lamps,New,1471
+12508,chair,Used,3615
+12509,couch,New,2026
+12510,TV stand,Used,3973
+12511,couch,Used,3466
+12512,TV stand,New,1545
+12513,couch,Used,3404
+12514,chest of drawers,Used,4208
+12515,TV stand,Used,2536
+12516,bed,Used,3794
+12517,bed,New,1454
+12518,chair,Used,963
+12519,desk,New,3053
+12520,bookcase,Used,1336
+12521,mattress,Used,870
+12522,desk,Used,4374
+12523,table,Used,4682
+12524,bed,New,693
+12525,table,New,693
+12526,mattress,Used,575
+12527,mattress,Used,4966
+12528,TV stand,New,803
+12529,bookcase,Used,951
+12530,nightstand,New,1770
+12531,chair,Used,3877
+12532,lamps,New,1312
+12533,table,Used,1548
+12534,chair,Used,3630
+12535,coffee table,Used,753
+12536,lamps,Used,4992
+12537,lamps,New,4335
+12538,table,New,4123
+12539,lamps,Used,5051
+12540,couch,Used,3295
+12541,nightstand,New,4876
+12542,desk,Used,4544
+12543,chair,Used,1938
+12544,chest of drawers,Used,1474
+12545,couch,Used,965
+12546,chair,New,3241
+12547,couch,Used,3346
+12548,chair,New,5012
+12549,TV stand,New,2199
+12550,lamps,Used,733
+12551,TV stand,New,2095
+12552,table,Used,1012
+12553,bed,New,810
+12554,mattress,Used,262
+12555,desk,Used,4192
+12556,desk,New,4795
+12557,lamps,New,1314
+12558,table,New,820
+12559,desk,New,3342
+12560,lamps,Used,4468
+12561,couch,Used,2637
+12562,nightstand,Used,2331
+12563,desk,New,3057
+12564,TV stand,New,1246
+12565,chair,Used,2874
+12566,desk,Used,1222
+12567,chest of drawers,Used,2433
+12568,chair,New,688
+12569,TV stand,Used,3290
+12570,bed,New,4730
+12571,couch,New,771
+12572,chair,New,5046
+12573,bookcase,New,369
+12574,coffee table,New,217
+12575,desk,New,105
+12576,bed,New,3959
+12577,chair,Used,4565
+12578,mattress,New,1410
+12579,chair,Used,4565
+12580,TV stand,New,3931
+12581,TV stand,New,535
+12582,nightstand,Used,5032
+12583,lamps,Used,2858
+12584,chest of drawers,Used,2452
+12585,mattress,Used,3256
+12586,TV stand,Used,3131
+12587,desk,New,364
+12588,coffee table,New,4806
+12589,coffee table,Used,1348
+12590,table,New,3231
+12591,table,Used,1176
+12592,coffee table,Used,3376
+12593,nightstand,New,4306
+12594,TV stand,Used,2515
+12595,TV stand,New,861
+12596,chest of drawers,New,768
+12597,nightstand,Used,1616
+12598,TV stand,New,2068
+12599,lamps,New,2454
+12600,chest of drawers,New,4175
+12601,bookcase,Used,124
+12602,bed,Used,3563
+12603,desk,New,1496
+12604,chair,New,562
+12605,nightstand,Used,1281
+12606,mattress,New,3295
+12607,chair,New,2119
+12608,desk,New,1623
+12609,TV stand,New,2121
+12610,nightstand,Used,5024
+12611,bed,Used,894
+12612,desk,Used,3809
+12613,TV stand,New,3059
+12614,bed,New,2608
+12615,lamps,Used,3371
+12616,coffee table,Used,2447
+12617,bed,New,3172
+12618,couch,Used,4114
+12619,mattress,New,472
+12620,chair,Used,4422
+12621,lamps,New,1146
+12622,desk,Used,3566
+12623,coffee table,New,3163
+12624,coffee table,Used,1334
+12625,bookcase,New,773
+12626,chair,New,723
+12627,chair,Used,1896
+12628,chair,Used,3160
+12629,chest of drawers,New,3869
+12630,nightstand,New,444
+12631,couch,New,341
+12632,chest of drawers,New,106
+12633,couch,Used,156
+12634,desk,New,2848
+12635,couch,New,3747
+12636,mattress,New,1807
+12637,desk,Used,1534
+12638,bookcase,Used,242
+12639,bookcase,New,5017
+12640,bed,Used,2397
+12641,lamps,New,4136
+12642,table,Used,191
+12643,couch,New,1441
+12644,mattress,New,329
+12645,chair,Used,1392
+12646,bookcase,New,2530
+12647,nightstand,New,2794
+12648,bookcase,Used,2358
+12649,bookcase,New,1285
+12650,chair,New,1276
+12651,bed,New,1798
+12652,desk,New,4525
+12653,coffee table,Used,4982
+12654,bookcase,Used,1564
+12655,table,New,3514
+12656,bed,New,4552
+12657,nightstand,Used,1964
+12658,couch,New,3201
+12659,table,New,3790
+12660,chair,Used,1662
+12661,desk,Used,3889
+12662,mattress,Used,1332
+12663,nightstand,Used,2548
+12664,bookcase,New,2983
+12665,desk,New,1292
+12666,nightstand,New,4565
+12667,mattress,Used,1487
+12668,mattress,New,1940
+12669,lamps,Used,3700
+12670,mattress,New,2610
+12671,chest of drawers,New,1440
+12672,mattress,Used,739
+12673,bookcase,Used,1191
+12674,couch,New,4585
+12675,lamps,Used,3728
+12676,couch,Used,917
+12677,chair,New,4730
+12678,bed,New,1857
+12679,bookcase,New,1093
+12680,bookcase,New,4334
+12681,bed,Used,1455
+12682,bookcase,New,3235
+12683,TV stand,Used,1035
+12684,chair,New,3203
+12685,mattress,Used,1635
+12686,table,Used,2854
+12687,mattress,New,3295
+12688,desk,Used,1130
+12689,table,Used,1340
+12690,nightstand,New,2841
+12691,chair,Used,5048
+12692,lamps,New,4640
+12693,bed,Used,4801
+12694,chair,New,2624
+12695,chest of drawers,Used,2945
+12696,couch,Used,2706
+12697,desk,New,1155
+12698,TV stand,Used,3593
+12699,couch,New,1329
+12700,lamps,New,3780
+12701,nightstand,Used,2694
+12702,chest of drawers,Used,510
+12703,nightstand,Used,843
+12704,couch,Used,421
+12705,TV stand,Used,2643
+12706,table,Used,2708
+12707,TV stand,Used,3753
+12708,desk,New,3455
+12709,bed,Used,242
+12710,bed,Used,4709
+12711,lamps,New,1590
+12712,bookcase,New,2783
+12713,bookcase,Used,2151
+12714,desk,New,3741
+12715,desk,Used,574
+12716,couch,New,1238
+12717,chest of drawers,New,112
+12718,chest of drawers,Used,2725
+12719,couch,New,570
+12720,couch,New,3098
+12721,desk,Used,2027
+12722,bookcase,Used,3411
+12723,chest of drawers,New,2307
+12724,chest of drawers,New,2041
+12725,bed,Used,1778
+12726,TV stand,Used,2087
+12727,couch,New,2616
+12728,desk,Used,2403
+12729,mattress,Used,507
+12730,TV stand,Used,287
+12731,TV stand,Used,2029
+12732,lamps,New,127
+12733,coffee table,New,1432
+12734,bed,New,2762
+12735,bed,New,2402
+12736,lamps,New,2109
+12737,mattress,Used,389
+12738,bookcase,New,272
+12739,table,New,3134
+12740,desk,New,946
+12741,bookcase,New,2444
+12742,TV stand,New,3975
+12743,table,Used,1507
+12744,coffee table,Used,4791
+12745,table,New,4142
+12746,chest of drawers,Used,4359
+12747,table,New,3637
+12748,chair,Used,595
+12749,TV stand,New,2263
+12750,nightstand,Used,991
+12751,lamps,New,3213
+12752,TV stand,Used,3086
+12753,lamps,Used,3918
+12754,coffee table,New,886
+12755,mattress,New,3972
+12756,couch,Used,1217
+12757,lamps,Used,2402
+12758,nightstand,New,4897
+12759,bed,New,879
+12760,chest of drawers,Used,5074
+12761,chest of drawers,New,483
+12762,chest of drawers,Used,4288
+12763,chair,New,5058
+12764,coffee table,Used,4594
+12765,desk,Used,4705
+12766,TV stand,New,2508
+12767,coffee table,Used,2050
+12768,table,New,235
+12769,nightstand,New,2840
+12770,nightstand,Used,809
+12771,lamps,New,290
+12772,couch,New,712
+12773,table,Used,5029
+12774,chest of drawers,Used,888
+12775,bed,New,2936
+12776,desk,New,2257
+12777,chest of drawers,New,4217
+12778,desk,New,2678
+12779,chair,New,803
+12780,bed,New,1070
+12781,chest of drawers,New,4145
+12782,coffee table,Used,611
+12783,lamps,Used,1410
+12784,nightstand,Used,1154
+12785,bed,Used,1231
+12786,bed,Used,375
+12787,coffee table,New,1105
+12788,couch,Used,1194
+12789,bed,Used,3670
+12790,nightstand,Used,4194
+12791,table,New,5076
+12792,table,New,3129
+12793,table,Used,3630
+12794,coffee table,Used,667
+12795,bookcase,New,236
+12796,couch,Used,4739
+12797,chest of drawers,New,1145
+12798,lamps,New,854
+12799,desk,Used,1992
+12800,nightstand,Used,4767
+12801,couch,New,5011
+12802,TV stand,New,4084
+12803,lamps,New,4226
+12804,TV stand,Used,2453
+12805,chest of drawers,New,2692
+12806,nightstand,New,3542
+12807,bookcase,New,787
+12808,TV stand,Used,554
+12809,chest of drawers,Used,3719
+12810,lamps,New,2155
+12811,table,Used,3053
+12812,desk,New,990
+12813,table,New,535
+12814,table,New,1075
+12815,coffee table,New,637
+12816,bed,Used,5013
+12817,TV stand,Used,4378
+12818,chest of drawers,Used,3415
+12819,lamps,Used,3116
+12820,chair,New,878
+12821,coffee table,New,3071
+12822,bed,Used,1429
+12823,mattress,Used,1265
+12824,table,New,4129
+12825,chair,New,590
+12826,table,Used,754
+12827,TV stand,Used,2457
+12828,chest of drawers,New,3787
+12829,table,New,2045
+12830,lamps,Used,1875
+12831,couch,New,2143
+12832,chair,New,2169
+12833,coffee table,Used,4995
+12834,lamps,Used,3642
+12835,chair,New,4952
+12836,chest of drawers,Used,3707
+12837,mattress,New,1293
+12838,lamps,New,464
+12839,nightstand,New,2758
+12840,mattress,Used,975
+12841,couch,Used,4764
+12842,chair,New,957
+12843,lamps,New,4399
+12844,lamps,Used,3590
+12845,couch,Used,4598
+12846,bookcase,New,3274
+12847,TV stand,Used,3629
+12848,mattress,Used,2051
+12849,chest of drawers,New,417
+12850,desk,New,3576
+12851,bookcase,New,1939
+12852,coffee table,Used,412
+12853,bed,New,1300
+12854,bed,New,4310
+12855,chest of drawers,Used,399
+12856,table,Used,2962
+12857,desk,New,2638
+12858,table,Used,4914
+12859,couch,New,1635
+12860,chest of drawers,Used,465
+12861,lamps,New,1779
+12862,chair,Used,2898
+12863,bookcase,New,3899
+12864,table,Used,1060
+12865,bed,New,334
+12866,chair,New,2931
+12867,lamps,New,3042
+12868,couch,New,3363
+12869,bed,New,1187
+12870,chest of drawers,New,3326
+12871,table,New,4071
+12872,bed,Used,1250
+12873,coffee table,Used,397
+12874,chair,Used,3792
+12875,desk,Used,4926
+12876,TV stand,Used,4881
+12877,chair,New,4264
+12878,chair,New,3445
+12879,chair,New,898
+12880,chair,Used,4833
+12881,bed,New,5028
+12882,chair,Used,1207
+12883,lamps,Used,4457
+12884,bookcase,Used,2777
+12885,desk,Used,4094
+12886,bed,New,4282
+12887,desk,Used,1297
+12888,lamps,Used,2685
+12889,TV stand,Used,3219
+12890,table,Used,4886
+12891,desk,New,4979
+12892,chest of drawers,New,1945
+12893,lamps,Used,920
+12894,chest of drawers,New,4074
+12895,nightstand,New,1028
+12896,bookcase,New,1551
+12897,chest of drawers,Used,1513
+12898,TV stand,Used,1011
+12899,chest of drawers,New,1297
+12900,bed,New,4034
+12901,bookcase,New,3945
+12902,couch,New,4340
+12903,coffee table,Used,1213
+12904,chair,New,4620
+12905,table,New,843
+12906,lamps,New,1175
+12907,chest of drawers,Used,1944
+12908,nightstand,New,3932
+12909,bookcase,New,905
+12910,table,New,4536
+12911,desk,New,4440
+12912,bookcase,New,609
+12913,nightstand,New,3526
+12914,mattress,New,1718
+12915,bookcase,Used,3030
+12916,bookcase,Used,5035
+12917,chair,New,4808
+12918,chair,New,4983
+12919,nightstand,Used,4078
+12920,mattress,Used,3851
+12921,bookcase,Used,999
+12922,coffee table,New,2111
+12923,chest of drawers,New,4486
+12924,coffee table,Used,3234
+12925,chair,New,2799
+12926,mattress,New,989
+12927,table,Used,3556
+12928,TV stand,New,913
+12929,desk,New,2030
+12930,chair,New,205
+12931,chair,New,3423
+12932,desk,Used,2079
+12933,coffee table,New,4463
+12934,mattress,New,2399
+12935,chair,New,4166
+12936,lamps,New,4395
+12937,lamps,New,689
+12938,coffee table,New,4074
+12939,mattress,New,1210
+12940,desk,New,3299
+12941,table,Used,468
+12942,bookcase,New,3783
+12943,coffee table,Used,3873
+12944,lamps,Used,1543
+12945,table,New,2911
+12946,couch,New,1949
+12947,lamps,New,1802
+12948,bed,Used,1850
+12949,TV stand,New,3511
+12950,TV stand,New,3352
+12951,chair,New,2642
+12952,table,New,2703
+12953,chest of drawers,Used,588
+12954,table,New,4402
+12955,coffee table,New,2866
+12956,desk,Used,991
+12957,chair,Used,4351
+12958,chest of drawers,New,2622
+12959,bed,Used,2483
+12960,chair,New,2342
+12961,bed,Used,1523
+12962,coffee table,New,5006
+12963,TV stand,New,4958
+12964,chair,New,4657
+12965,couch,Used,4237
+12966,lamps,New,945
+12967,bookcase,New,1518
+12968,bed,Used,607
+12969,lamps,Used,4050
+12970,couch,Used,2370
+12971,desk,New,2908
+12972,mattress,New,3786
+12973,mattress,Used,3272
+12974,bed,New,1956
+12975,table,New,1152
+12976,mattress,Used,564
+12977,bookcase,Used,1428
+12978,TV stand,New,2054
+12979,chest of drawers,New,2197
+12980,coffee table,Used,2567
+12981,couch,New,4066
+12982,desk,New,1802
+12983,couch,New,2995
+12984,nightstand,New,4684
+12985,bookcase,New,1477
+12986,chair,New,4864
+12987,chair,New,4566
+12988,mattress,New,1104
+12989,bookcase,New,1641
+12990,table,New,3541
+12991,couch,New,591
+12992,bookcase,Used,1345
+12993,nightstand,New,1460
+12994,chair,Used,2459
+12995,mattress,Used,4913
+12996,chest of drawers,Used,543
+12997,bed,Used,4786
+12998,desk,Used,3960
+12999,bookcase,Used,865
+13000,mattress,New,2901
+13001,desk,Used,4525
+13002,TV stand,New,4577
+13003,nightstand,New,119
+13004,chest of drawers,New,1551
+13005,TV stand,Used,3005
+13006,bed,Used,2232
+13007,lamps,New,4964
+13008,lamps,Used,3653
+13009,couch,Used,3324
+13010,mattress,Used,1357
+13011,lamps,Used,1797
+13012,chest of drawers,Used,3223
+13013,desk,Used,3162
+13014,mattress,Used,921
+13015,couch,New,3165
+13016,TV stand,New,3019
+13017,nightstand,New,2907
+13018,bookcase,Used,4833
+13019,chair,Used,2401
+13020,chest of drawers,New,3154
+13021,bookcase,Used,4141
+13022,TV stand,Used,1175
+13023,nightstand,Used,5020
+13024,lamps,Used,1268
+13025,TV stand,Used,1903
+13026,couch,Used,1776
+13027,chair,New,3421
+13028,bookcase,Used,1511
+13029,bed,New,4853
+13030,TV stand,Used,521
+13031,bed,Used,4432
+13032,nightstand,Used,3556
+13033,chest of drawers,New,1495
+13034,bookcase,Used,3018
+13035,couch,Used,3774
+13036,lamps,Used,4883
+13037,lamps,New,354
+13038,mattress,Used,2616
+13039,coffee table,New,1177
+13040,bookcase,New,3154
+13041,table,New,838
+13042,bed,New,1382
+13043,TV stand,Used,4409
+13044,lamps,New,475
+13045,chair,New,4656
+13046,lamps,New,4585
+13047,lamps,Used,1615
+13048,lamps,New,2528
+13049,chest of drawers,Used,872
+13050,chair,New,4757
+13051,coffee table,New,4372
+13052,lamps,New,2114
+13053,chair,New,2433
+13054,mattress,Used,5050
+13055,TV stand,New,4056
+13056,lamps,New,1926
+13057,nightstand,New,4479
+13058,coffee table,Used,3825
+13059,couch,Used,3977
+13060,chest of drawers,Used,4385
+13061,chest of drawers,Used,1192
+13062,TV stand,Used,4926
+13063,mattress,New,5014
+13064,desk,Used,2521
+13065,desk,New,2959
+13066,chest of drawers,Used,1917
+13067,nightstand,Used,675
+13068,coffee table,New,4847
+13069,bed,Used,4668
+13070,lamps,New,4438
+13071,bookcase,Used,3573
+13072,coffee table,Used,988
+13073,nightstand,New,4802
+13074,coffee table,Used,1429
+13075,couch,New,530
+13076,lamps,New,2945
+13077,bed,New,5031
+13078,bookcase,Used,1443
+13079,chest of drawers,New,4357
+13080,chest of drawers,New,3995
+13081,bookcase,Used,2747
+13082,bed,New,163
+13083,nightstand,Used,430
+13084,TV stand,Used,5056
+13085,couch,New,4462
+13086,TV stand,New,4201
+13087,couch,New,3918
+13088,chair,New,2317
+13089,desk,New,2935
+13090,lamps,Used,3948
+13091,couch,Used,2257
+13092,coffee table,Used,1612
+13093,nightstand,New,913
+13094,TV stand,Used,4296
+13095,chest of drawers,New,4885
+13096,mattress,New,3194
+13097,desk,New,4843
+13098,lamps,New,2541
+13099,nightstand,New,521
+13100,chair,Used,555
+13101,bed,Used,4225
+13102,table,New,1976
+13103,chair,New,2528
+13104,couch,New,4514
+13105,couch,Used,2696
+13106,table,New,3335
+13107,desk,Used,4184
+13108,bookcase,New,1050
+13109,chest of drawers,Used,3217
+13110,nightstand,Used,2425
+13111,TV stand,Used,1512
+13112,table,Used,923
+13113,TV stand,Used,2530
+13114,bed,Used,362
+13115,TV stand,Used,4675
+13116,nightstand,New,357
+13117,nightstand,New,2129
+13118,desk,New,2534
+13119,mattress,Used,4176
+13120,lamps,Used,489
+13121,nightstand,New,1921
+13122,coffee table,New,2025
+13123,couch,Used,1151
+13124,chair,Used,2723
+13125,chair,New,4270
+13126,lamps,Used,1152
+13127,chest of drawers,Used,2005
+13128,lamps,Used,2864
+13129,bookcase,New,753
+13130,TV stand,Used,1584
+13131,lamps,Used,5088
+13132,nightstand,Used,3008
+13133,nightstand,New,4755
+13134,mattress,Used,4689
+13135,lamps,Used,4674
+13136,coffee table,Used,924
+13137,coffee table,New,1099
+13138,bed,New,1387
+13139,nightstand,Used,3303
+13140,mattress,Used,2289
+13141,mattress,Used,1283
+13142,couch,Used,4755
+13143,desk,Used,4363
+13144,chair,Used,3417
+13145,TV stand,New,2862
+13146,bookcase,New,4116
+13147,nightstand,Used,3448
+13148,TV stand,New,718
+13149,bookcase,Used,2384
+13150,chair,New,625
+13151,mattress,New,1810
+13152,bookcase,Used,1946
+13153,table,Used,3938
+13154,mattress,Used,1521
+13155,table,New,1675
+13156,chest of drawers,New,4311
+13157,chest of drawers,New,2433
+13158,chair,Used,4835
+13159,mattress,Used,5010
+13160,nightstand,Used,1884
+13161,bed,Used,1813
+13162,mattress,New,2847
+13163,bookcase,Used,654
+13164,mattress,New,1815
+13165,coffee table,New,1253
+13166,coffee table,Used,597
+13167,bookcase,New,3206
+13168,couch,New,4185
+13169,bed,New,3078
+13170,table,Used,1633
+13171,coffee table,Used,3812
+13172,desk,Used,567
+13173,table,New,1899
+13174,mattress,Used,4315
+13175,TV stand,New,2644
+13176,couch,Used,384
+13177,coffee table,New,4658
+13178,nightstand,Used,3852
+13179,couch,New,455
+13180,table,New,1715
+13181,lamps,New,3118
+13182,bookcase,New,3566
+13183,chest of drawers,Used,1450
+13184,lamps,New,4624
+13185,TV stand,New,4853
+13186,lamps,Used,611
+13187,mattress,Used,3598
+13188,mattress,New,492
+13189,table,Used,4452
+13190,mattress,Used,5041
+13191,desk,Used,1535
+13192,couch,New,4798
+13193,bookcase,New,2664
+13194,bookcase,New,2483
+13195,nightstand,New,2591
+13196,table,Used,1638
+13197,mattress,Used,2116
+13198,TV stand,Used,3203
+13199,chest of drawers,Used,1949
+13200,TV stand,New,1050
+13201,bed,Used,737
+13202,nightstand,Used,383
+13203,chair,New,4745
+13204,coffee table,Used,1936
+13205,bookcase,New,2581
+13206,nightstand,New,5080
+13207,desk,Used,902
+13208,TV stand,Used,3643
+13209,lamps,Used,3718
+13210,nightstand,New,1915
+13211,nightstand,New,3983
+13212,TV stand,Used,637
+13213,TV stand,New,649
+13214,chest of drawers,New,3739
+13215,desk,Used,494
+13216,mattress,New,199
+13217,desk,Used,3031
+13218,bed,New,4335
+13219,table,Used,1474
+13220,TV stand,Used,4349
+13221,chest of drawers,New,4782
+13222,nightstand,Used,4721
+13223,chair,New,4225
+13224,bed,New,3156
+13225,table,Used,519
+13226,bookcase,New,2717
+13227,bed,New,3487
+13228,mattress,Used,2541
+13229,chest of drawers,Used,2716
+13230,chair,New,3713
+13231,desk,New,1994
+13232,lamps,New,1914
+13233,lamps,Used,4926
+13234,bookcase,New,3976
+13235,nightstand,Used,1035
+13236,bed,New,2845
+13237,bookcase,Used,2935
+13238,nightstand,New,3819
+13239,chest of drawers,Used,595
+13240,chair,New,107
+13241,chair,Used,2853
+13242,mattress,Used,3992
+13243,coffee table,Used,2584
+13244,bookcase,Used,982
+13245,bed,Used,1431
+13246,table,Used,914
+13247,bed,New,1180
+13248,chair,New,3954
+13249,desk,Used,2127
+13250,coffee table,Used,2321
+13251,nightstand,Used,4075
+13252,chair,Used,3941
+13253,chest of drawers,Used,2805
+13254,mattress,New,4091
+13255,table,Used,2551
+13256,desk,New,2727
+13257,bookcase,New,2917
+13258,nightstand,New,4167
+13259,table,Used,3347
+13260,coffee table,New,3051
+13261,mattress,Used,3508
+13262,bookcase,New,3991
+13263,chest of drawers,New,4863
+13264,coffee table,Used,3365
+13265,table,Used,1005
+13266,bed,New,3005
+13267,desk,Used,288
+13268,bed,Used,1190
+13269,chest of drawers,New,1036
+13270,lamps,Used,4427
+13271,bookcase,Used,1163
+13272,coffee table,New,1542
+13273,lamps,Used,5004
+13274,mattress,New,794
+13275,desk,New,4659
+13276,bed,New,1546
+13277,lamps,Used,1741
+13278,bookcase,Used,832
+13279,coffee table,New,3309
+13280,TV stand,New,3396
+13281,bookcase,Used,1103
+13282,mattress,New,4881
+13283,table,New,4995
+13284,chair,New,2098
+13285,mattress,New,1402
+13286,chest of drawers,New,5047
+13287,coffee table,Used,2337
+13288,mattress,New,3304
+13289,bookcase,Used,4623
+13290,mattress,Used,2481
+13291,chair,New,3952
+13292,mattress,Used,599
+13293,nightstand,Used,4293
+13294,couch,New,4598
+13295,table,New,780
+13296,couch,Used,349
+13297,chair,Used,1476
+13298,coffee table,New,4218
+13299,desk,New,1114
+13300,TV stand,New,3816
+13301,mattress,Used,262
+13302,table,New,359
+13303,bed,Used,4138
+13304,nightstand,New,2766
+13305,bookcase,New,3096
+13306,desk,New,948
+13307,TV stand,New,1265
+13308,table,New,376
+13309,chair,Used,4858
+13310,chest of drawers,New,4330
+13311,table,New,1375
+13312,mattress,New,758
+13313,TV stand,Used,2218
+13314,couch,New,1467
+13315,nightstand,Used,889
+13316,coffee table,New,3315
+13317,desk,New,3459
+13318,lamps,Used,2832
+13319,bookcase,Used,1836
+13320,bed,Used,4170
+13321,table,New,4193
+13322,bookcase,New,4361
+13323,bed,New,3478
+13324,mattress,Used,385
+13325,desk,New,209
+13326,chair,Used,4810
+13327,TV stand,New,4937
+13328,chest of drawers,Used,3891
+13329,coffee table,Used,4187
+13330,desk,Used,783
+13331,lamps,New,1804
+13332,bed,Used,229
+13333,TV stand,Used,3378
+13334,bed,Used,376
+13335,mattress,Used,3241
+13336,lamps,New,1541
+13337,couch,Used,1468
+13338,mattress,Used,3204
+13339,desk,New,2720
+13340,coffee table,Used,4677
+13341,chair,Used,2985
+13342,TV stand,Used,3343
+13343,coffee table,Used,2159
+13344,mattress,Used,2762
+13345,couch,New,4292
+13346,coffee table,Used,545
+13347,nightstand,Used,4847
+13348,chair,Used,3292
+13349,chest of drawers,Used,1537
+13350,lamps,Used,184
+13351,coffee table,New,153
+13352,chest of drawers,New,2048
+13353,TV stand,Used,4954
+13354,table,Used,4383
+13355,couch,Used,2208
+13356,chair,Used,2104
+13357,mattress,New,1292
+13358,nightstand,Used,4760
+13359,lamps,New,1326
+13360,coffee table,New,3498
+13361,table,New,3959
+13362,couch,New,4482
+13363,bookcase,Used,4143
+13364,coffee table,New,1308
+13365,table,New,3011
+13366,chest of drawers,New,626
+13367,lamps,Used,1790
+13368,lamps,Used,3649
+13369,bed,Used,4954
+13370,mattress,New,269
+13371,bookcase,New,268
+13372,TV stand,Used,1592
+13373,lamps,Used,4682
+13374,bookcase,New,636
+13375,mattress,Used,4128
+13376,bed,Used,430
+13377,chest of drawers,Used,3936
+13378,TV stand,Used,3559
+13379,chair,New,2748
+13380,mattress,New,3283
+13381,nightstand,New,1493
+13382,table,Used,1156
+13383,coffee table,New,2463
+13384,couch,New,3679
+13385,lamps,New,403
+13386,bookcase,Used,1853
+13387,nightstand,Used,2611
+13388,desk,New,4862
+13389,lamps,New,542
+13390,chair,New,2715
+13391,chair,New,2516
+13392,table,Used,937
+13393,coffee table,Used,4927
+13394,couch,Used,2599
+13395,TV stand,Used,1769
+13396,TV stand,New,4001
+13397,chest of drawers,New,1950
+13398,bed,Used,4987
+13399,bed,Used,2526
+13400,table,New,4737
+13401,coffee table,Used,3048
+13402,chest of drawers,Used,2199
+13403,TV stand,Used,3487
+13404,coffee table,Used,3383
+13405,nightstand,Used,3249
+13406,nightstand,New,1718
+13407,bookcase,Used,2274
+13408,couch,New,4155
+13409,table,New,3723
+13410,TV stand,New,4115
+13411,mattress,Used,4004
+13412,TV stand,New,441
+13413,chest of drawers,New,428
+13414,bookcase,Used,4834
+13415,mattress,Used,540
+13416,TV stand,Used,2763
+13417,desk,Used,994
+13418,bookcase,Used,4948
+13419,desk,Used,2174
+13420,table,New,3848
+13421,desk,Used,295
+13422,couch,Used,2339
+13423,nightstand,Used,3764
+13424,chair,New,5083
+13425,nightstand,New,3460
+13426,table,Used,349
+13427,table,New,3443
+13428,nightstand,Used,1997
+13429,bookcase,Used,2203
+13430,bed,New,546
+13431,bed,Used,1945
+13432,mattress,Used,2325
+13433,bookcase,Used,3437
+13434,bookcase,Used,2248
+13435,chair,New,1974
+13436,bed,Used,3256
+13437,coffee table,New,2408
+13438,lamps,Used,3173
+13439,nightstand,New,314
+13440,TV stand,Used,1119
+13441,coffee table,Used,1449
+13442,table,New,409
+13443,lamps,New,2370
+13444,desk,New,3652
+13445,desk,Used,4437
+13446,desk,Used,1496
+13447,couch,New,212
+13448,bed,New,1910
+13449,desk,Used,2193
+13450,desk,Used,365
+13451,bed,Used,1975
+13452,couch,Used,3451
+13453,couch,New,2987
+13454,lamps,New,2588
+13455,bed,New,484
+13456,mattress,New,1013
+13457,couch,Used,4614
+13458,chest of drawers,Used,168
+13459,bed,Used,819
+13460,lamps,New,146
+13461,couch,Used,3714
+13462,table,New,3449
+13463,bookcase,Used,1340
+13464,lamps,Used,148
+13465,couch,Used,1904
+13466,bookcase,Used,525
+13467,nightstand,New,1391
+13468,TV stand,Used,3536
+13469,couch,New,4413
+13470,bookcase,Used,2151
+13471,TV stand,Used,4108
+13472,table,Used,215
+13473,nightstand,Used,1148
+13474,bookcase,Used,3018
+13475,mattress,Used,1383
+13476,bookcase,New,1285
+13477,chest of drawers,Used,3955
+13478,coffee table,New,3897
+13479,mattress,Used,3093
+13480,couch,Used,4809
+13481,bed,New,1086
+13482,couch,New,3131
+13483,bookcase,Used,3205
+13484,lamps,Used,1139
+13485,chest of drawers,New,3754
+13486,couch,New,849
+13487,couch,Used,456
+13488,nightstand,New,144
+13489,lamps,Used,3222
+13490,chair,New,3990
+13491,desk,Used,4369
+13492,table,Used,3865
+13493,chair,Used,4765
+13494,bookcase,New,4326
+13495,mattress,New,773
+13496,chair,Used,4979
+13497,couch,New,867
+13498,nightstand,Used,3797
+13499,bookcase,Used,3845
+13500,coffee table,Used,1238
+13501,mattress,Used,5004
+13502,chair,Used,5023
+13503,TV stand,Used,134
+13504,chair,New,2776
+13505,TV stand,New,1166
+13506,TV stand,Used,1453
+13507,TV stand,New,1345
+13508,TV stand,Used,2820
+13509,lamps,New,3896
+13510,coffee table,Used,153
+13511,chair,New,2720
+13512,lamps,Used,4573
+13513,desk,New,2269
+13514,mattress,New,3097
+13515,table,Used,2534
+13516,chair,New,1451
+13517,nightstand,Used,2217
+13518,bookcase,New,4005
+13519,bookcase,Used,3823
+13520,bed,Used,1238
+13521,chair,New,916
+13522,nightstand,Used,1651
+13523,couch,Used,3125
+13524,nightstand,Used,3043
+13525,desk,Used,1351
+13526,coffee table,Used,1422
+13527,table,New,148
+13528,coffee table,Used,2844
+13529,desk,Used,1057
+13530,nightstand,Used,1621
+13531,TV stand,New,3586
+13532,chest of drawers,New,2205
+13533,couch,Used,3307
+13534,bed,New,3203
+13535,bed,Used,1596
+13536,chest of drawers,New,3751
+13537,coffee table,Used,1433
+13538,lamps,New,5002
+13539,chair,Used,382
+13540,bed,Used,3825
+13541,desk,New,793
+13542,desk,Used,3501
+13543,TV stand,New,1428
+13544,TV stand,New,176
+13545,couch,Used,4609
+13546,chair,New,3624
+13547,chest of drawers,New,4460
+13548,couch,Used,2769
+13549,chest of drawers,New,4773
+13550,TV stand,Used,1987
+13551,nightstand,New,4704
+13552,bookcase,Used,478
+13553,nightstand,New,2955
+13554,bed,New,3013
+13555,desk,Used,2460
+13556,chair,Used,1377
+13557,couch,New,3001
+13558,desk,New,4167
+13559,nightstand,New,2057
+13560,desk,New,4433
+13561,mattress,Used,3632
+13562,couch,Used,3219
+13563,lamps,Used,578
+13564,chair,New,3154
+13565,desk,Used,4154
+13566,lamps,Used,3210
+13567,desk,Used,3013
+13568,table,Used,1601
+13569,bed,New,3364
+13570,chest of drawers,New,4194
+13571,couch,Used,1568
+13572,bed,New,4578
+13573,bed,New,650
+13574,chest of drawers,Used,636
+13575,bookcase,New,4386
+13576,bookcase,New,151
+13577,desk,Used,3879
+13578,chest of drawers,Used,162
+13579,TV stand,Used,299
+13580,bookcase,New,1628
+13581,table,New,1155
+13582,couch,New,3292
+13583,bed,Used,4967
+13584,chair,Used,595
+13585,chest of drawers,Used,2757
+13586,TV stand,New,1539
+13587,mattress,New,1533
+13588,mattress,New,3292
+13589,coffee table,New,3382
+13590,nightstand,Used,2326
+13591,TV stand,Used,3352
+13592,nightstand,Used,2060
+13593,bookcase,Used,3547
+13594,coffee table,New,4806
+13595,table,New,4520
+13596,bookcase,New,2732
+13597,desk,Used,1795
+13598,mattress,New,1871
+13599,table,New,4284
+13600,lamps,Used,286
+13601,coffee table,New,949
+13602,chair,New,1094
+13603,table,New,379
+13604,couch,New,4565
+13605,table,Used,4729
+13606,chair,New,2351
+13607,nightstand,New,1455
+13608,table,New,1663
+13609,TV stand,Used,356
+13610,bookcase,New,820
+13611,lamps,Used,2954
+13612,desk,New,2982
+13613,chair,Used,1261
+13614,mattress,Used,3352
+13615,bed,Used,1633
+13616,bed,Used,4138
+13617,bed,Used,3791
+13618,lamps,New,1965
+13619,table,Used,2704
+13620,table,Used,192
+13621,desk,New,2914
+13622,chair,Used,3978
+13623,chest of drawers,New,124
+13624,bookcase,New,3387
+13625,nightstand,New,3457
+13626,lamps,Used,1317
+13627,lamps,Used,3039
+13628,bookcase,New,1248
+13629,chest of drawers,New,1528
+13630,bookcase,New,3530
+13631,nightstand,Used,825
+13632,table,Used,3903
+13633,bookcase,New,2520
+13634,desk,Used,2148
+13635,desk,Used,4099
+13636,desk,New,1927
+13637,table,New,4623
+13638,table,New,1705
+13639,bed,Used,4125
+13640,desk,Used,4725
+13641,lamps,Used,2472
+13642,chest of drawers,New,3621
+13643,couch,New,1456
+13644,mattress,New,4972
+13645,coffee table,Used,3297
+13646,bookcase,New,386
+13647,chair,New,3675
+13648,couch,New,3361
+13649,chair,Used,3616
+13650,bookcase,New,4697
+13651,lamps,Used,1580
+13652,lamps,Used,5092
+13653,lamps,New,3575
+13654,nightstand,Used,2102
+13655,couch,New,4212
+13656,mattress,Used,1495
+13657,bookcase,Used,1619
+13658,bed,Used,4709
+13659,bed,Used,681
+13660,nightstand,Used,4780
+13661,bed,Used,2954
+13662,coffee table,Used,3135
+13663,couch,New,185
+13664,mattress,New,3751
+13665,couch,Used,1838
+13666,TV stand,New,1845
+13667,desk,New,707
+13668,mattress,Used,1419
+13669,chair,New,1979
+13670,nightstand,New,4176
+13671,couch,Used,2749
+13672,bookcase,New,3869
+13673,chair,New,592
+13674,chest of drawers,Used,2912
+13675,nightstand,New,3512
+13676,mattress,New,4022
+13677,couch,Used,4267
+13678,TV stand,Used,1364
+13679,chest of drawers,New,3984
+13680,chest of drawers,New,3046
+13681,desk,New,4373
+13682,nightstand,New,3583
+13683,desk,New,4548
+13684,chest of drawers,New,751
+13685,bed,Used,2981
+13686,chest of drawers,New,466
+13687,nightstand,New,788
+13688,desk,Used,4878
+13689,lamps,Used,5069
+13690,couch,New,2172
+13691,bookcase,New,3719
+13692,bed,Used,1920
+13693,chest of drawers,New,1016
+13694,mattress,Used,1387
+13695,mattress,Used,3594
+13696,coffee table,Used,4995
+13697,lamps,New,3721
+13698,table,Used,4382
+13699,chest of drawers,New,1461
+13700,chest of drawers,New,2013
+13701,chair,Used,2406
+13702,couch,Used,4231
+13703,couch,New,838
+13704,table,New,2718
+13705,coffee table,Used,1111
+13706,mattress,Used,2867
+13707,nightstand,Used,5015
+13708,bookcase,New,3825
+13709,nightstand,New,4586
+13710,coffee table,Used,3066
+13711,TV stand,New,3119
+13712,table,New,971
+13713,bookcase,New,2853
+13714,lamps,New,4630
+13715,chest of drawers,Used,1816
+13716,mattress,Used,1914
+13717,bed,New,4802
+13718,chair,Used,104
+13719,lamps,Used,3127
+13720,mattress,Used,1822
+13721,mattress,Used,236
+13722,bookcase,New,1078
+13723,chair,New,2001
+13724,table,Used,771
+13725,bookcase,New,4080
+13726,couch,Used,1867
+13727,TV stand,Used,4042
+13728,lamps,New,2035
+13729,desk,Used,330
+13730,mattress,New,4592
+13731,couch,New,380
+13732,couch,Used,769
+13733,TV stand,New,3750
+13734,coffee table,New,4069
+13735,chair,New,4121
+13736,bookcase,Used,280
+13737,mattress,Used,3350
+13738,mattress,Used,3805
+13739,chest of drawers,New,3612
+13740,nightstand,New,3990
+13741,couch,Used,2005
+13742,nightstand,Used,2267
+13743,chair,New,4874
+13744,chair,Used,3204
+13745,couch,Used,4429
+13746,TV stand,Used,2286
+13747,chair,Used,2737
+13748,coffee table,New,782
+13749,nightstand,Used,4067
+13750,bookcase,New,1420
+13751,mattress,Used,4068
+13752,TV stand,Used,3399
+13753,bed,New,2577
+13754,chair,New,3259
+13755,couch,New,3479
+13756,lamps,New,4725
+13757,coffee table,Used,122
+13758,chest of drawers,Used,1038
+13759,desk,New,1457
+13760,table,New,1210
+13761,nightstand,Used,1738
+13762,bed,Used,2803
+13763,desk,Used,2031
+13764,table,Used,2412
+13765,chest of drawers,New,2797
+13766,coffee table,New,2828
+13767,mattress,New,3631
+13768,table,New,2492
+13769,nightstand,New,4659
+13770,couch,Used,1995
+13771,nightstand,New,4466
+13772,bookcase,Used,4550
+13773,couch,Used,533
+13774,mattress,New,3099
+13775,bed,Used,1104
+13776,bed,New,1278
+13777,lamps,New,2127
+13778,desk,New,3097
+13779,table,New,3334
+13780,mattress,Used,1334
+13781,mattress,New,2227
+13782,bed,Used,4566
+13783,TV stand,New,1356
+13784,bookcase,Used,3245
+13785,chest of drawers,New,234
+13786,nightstand,New,653
+13787,TV stand,Used,2617
+13788,couch,Used,5062
+13789,table,Used,3450
+13790,chair,Used,2987
+13791,chair,New,2547
+13792,chair,Used,151
+13793,mattress,New,4007
+13794,bed,New,2316
+13795,coffee table,Used,1257
+13796,table,Used,752
+13797,chair,New,4881
+13798,chest of drawers,New,4117
+13799,table,Used,128
+13800,nightstand,New,2323
+13801,TV stand,New,2752
+13802,desk,New,4742
+13803,coffee table,New,2811
+13804,bed,Used,4868
+13805,lamps,New,2581
+13806,nightstand,Used,2449
+13807,coffee table,Used,2309
+13808,lamps,Used,2765
+13809,couch,Used,823
+13810,chest of drawers,New,1165
+13811,table,Used,4950
+13812,lamps,Used,2616
+13813,mattress,New,2200
+13814,nightstand,New,784
+13815,TV stand,New,4916
+13816,bookcase,New,158
+13817,table,Used,4126
+13818,mattress,Used,3651
+13819,desk,New,2695
+13820,lamps,Used,2193
+13821,table,Used,1468
+13822,TV stand,Used,3377
+13823,bed,New,5051
+13824,chair,New,2505
+13825,bookcase,Used,2599
+13826,desk,Used,315
+13827,bookcase,New,2096
+13828,chair,New,4010
+13829,chest of drawers,New,2299
+13830,chair,Used,3791
+13831,coffee table,Used,3349
+13832,TV stand,Used,4799
+13833,bookcase,New,1719
+13834,TV stand,New,3266
+13835,chest of drawers,New,3064
+13836,couch,New,4367
+13837,coffee table,New,1755
+13838,nightstand,New,2719
+13839,table,New,4861
+13840,lamps,New,2835
+13841,nightstand,Used,1605
+13842,nightstand,Used,1275
+13843,desk,New,935
+13844,table,New,4334
+13845,chair,New,5088
+13846,nightstand,New,4431
+13847,lamps,New,1914
+13848,chest of drawers,New,2021
+13849,coffee table,New,3069
+13850,TV stand,Used,1305
+13851,coffee table,New,2712
+13852,mattress,New,3153
+13853,table,Used,1830
+13854,mattress,Used,3336
+13855,table,New,4394
+13856,chair,New,3247
+13857,nightstand,Used,4090
+13858,nightstand,Used,3363
+13859,chest of drawers,Used,2242
+13860,bookcase,New,1473
+13861,coffee table,New,2375
+13862,chair,New,1387
+13863,lamps,Used,4138
+13864,chair,Used,1561
+13865,nightstand,New,3946
+13866,TV stand,Used,3659
+13867,chair,New,353
+13868,TV stand,Used,4793
+13869,lamps,Used,4102
+13870,lamps,New,107
+13871,desk,Used,3698
+13872,mattress,New,1817
+13873,chair,Used,976
+13874,chest of drawers,New,4101
+13875,chest of drawers,New,1268
+13876,desk,New,2330
+13877,coffee table,New,1178
+13878,coffee table,Used,864
+13879,coffee table,Used,934
+13880,desk,New,1474
+13881,chest of drawers,New,1974
+13882,chest of drawers,Used,1938
+13883,chest of drawers,New,2097
+13884,table,New,3204
+13885,table,Used,1896
+13886,desk,New,4739
+13887,bed,New,2878
+13888,couch,Used,850
+13889,chair,New,1411
+13890,TV stand,New,2327
+13891,nightstand,New,3626
+13892,couch,Used,2107
+13893,desk,Used,1286
+13894,bed,Used,2293
+13895,bed,New,741
+13896,bed,Used,4021
+13897,TV stand,New,3148
+13898,desk,New,364
+13899,nightstand,New,4481
+13900,nightstand,New,4182
+13901,bed,Used,4006
+13902,TV stand,New,1075
+13903,coffee table,New,1049
+13904,nightstand,New,3583
+13905,bookcase,Used,4620
+13906,mattress,New,2483
+13907,lamps,New,877
+13908,bookcase,Used,1463
+13909,TV stand,New,3138
+13910,TV stand,Used,1915
+13911,chest of drawers,New,334
+13912,chair,Used,3279
+13913,nightstand,New,1010
+13914,chest of drawers,Used,704
+13915,couch,Used,1522
+13916,bed,Used,1989
+13917,lamps,Used,2181
+13918,mattress,Used,2206
+13919,chest of drawers,Used,2924
+13920,bookcase,Used,1840
+13921,chair,Used,3139
+13922,bookcase,Used,857
+13923,coffee table,New,2779
+13924,chest of drawers,New,2265
+13925,lamps,New,1175
+13926,desk,New,3635
+13927,lamps,New,4293
+13928,lamps,Used,2519
+13929,couch,New,2735
+13930,desk,Used,1231
+13931,chair,Used,1851
+13932,desk,New,1916
+13933,mattress,New,366
+13934,TV stand,New,313
+13935,mattress,Used,3308
+13936,chair,New,2442
+13937,chest of drawers,Used,4105
+13938,coffee table,Used,1987
+13939,mattress,New,3629
+13940,nightstand,New,845
+13941,desk,Used,2159
+13942,bed,New,922
+13943,lamps,Used,733
+13944,TV stand,Used,1243
+13945,lamps,Used,2333
+13946,coffee table,New,943
+13947,mattress,Used,1229
+13948,desk,Used,5096
+13949,couch,Used,626
+13950,table,Used,4260
+13951,chair,New,1101
+13952,coffee table,New,4067
+13953,bed,Used,3565
+13954,TV stand,New,1734
+13955,chair,New,3368
+13956,chair,New,203
+13957,chair,New,1928
+13958,chair,New,4183
+13959,TV stand,Used,4690
+13960,desk,New,2518
+13961,bookcase,New,1830
+13962,bed,New,3439
+13963,nightstand,New,2459
+13964,chair,New,3266
+13965,chest of drawers,New,4973
+13966,chair,New,1522
+13967,bookcase,Used,3103
+13968,coffee table,Used,345
+13969,table,New,1686
+13970,chest of drawers,Used,4154
+13971,chest of drawers,New,122
+13972,nightstand,New,2970
+13973,mattress,Used,2868
+13974,coffee table,New,1068
+13975,mattress,Used,1440
+13976,chair,New,4377
+13977,table,New,1120
+13978,TV stand,Used,1239
+13979,bed,New,225
+13980,mattress,New,3510
+13981,chair,New,1335
+13982,mattress,Used,2064
+13983,lamps,Used,3751
+13984,desk,Used,3160
+13985,chair,Used,4479
+13986,coffee table,Used,2222
+13987,mattress,New,2230
+13988,chest of drawers,Used,2839
+13989,TV stand,New,4710
+13990,table,New,5009
+13991,coffee table,Used,3701
+13992,coffee table,Used,811
+13993,bed,New,2251
+13994,TV stand,New,2840
+13995,coffee table,New,3246
+13996,nightstand,Used,3625
+13997,TV stand,Used,4192
+13998,nightstand,New,4691
+13999,chair,New,4799
+14000,desk,Used,1482
+14001,bookcase,New,693
+14002,chest of drawers,Used,5055
+14003,couch,Used,3688
+14004,bed,Used,4761
+14005,TV stand,New,4365
+14006,nightstand,Used,824
+14007,desk,New,943
+14008,bed,New,338
+14009,TV stand,Used,3293
+14010,bookcase,New,2711
+14011,desk,New,294
+14012,desk,New,2919
+14013,bed,New,2562
+14014,mattress,Used,2933
+14015,TV stand,New,108
+14016,chair,Used,2468
+14017,desk,Used,1668
+14018,bed,Used,1185
+14019,table,Used,3294
+14020,lamps,New,1346
+14021,bookcase,New,2641
+14022,chest of drawers,Used,4813
+14023,bed,Used,1460
+14024,couch,New,2187
+14025,mattress,Used,3362
+14026,chair,New,4862
+14027,desk,Used,2766
+14028,nightstand,Used,4123
+14029,coffee table,Used,2258
+14030,TV stand,New,5025
+14031,bed,New,3369
+14032,couch,Used,1379
+14033,chest of drawers,Used,2056
+14034,nightstand,New,4480
+14035,coffee table,New,2494
+14036,mattress,Used,3241
+14037,TV stand,Used,122
+14038,TV stand,New,3576
+14039,lamps,Used,2568
+14040,table,New,3564
+14041,desk,Used,4816
+14042,nightstand,New,3207
+14043,lamps,New,3692
+14044,bed,New,716
+14045,chest of drawers,Used,513
+14046,mattress,Used,1778
+14047,coffee table,New,4951
+14048,chest of drawers,Used,2927
+14049,chair,New,3457
+14050,coffee table,Used,5087
+14051,coffee table,New,2510
+14052,couch,New,4059
+14053,couch,New,1949
+14054,nightstand,New,4347
+14055,nightstand,New,2380
+14056,lamps,New,185
+14057,nightstand,Used,761
+14058,coffee table,New,910
+14059,bed,New,4164
+14060,bed,New,4069
+14061,couch,New,4924
+14062,nightstand,New,3860
+14063,nightstand,Used,1532
+14064,bed,Used,3760
+14065,bookcase,New,4736
+14066,couch,New,2260
+14067,mattress,New,1364
+14068,chest of drawers,Used,2109
+14069,couch,Used,914
+14070,couch,Used,3678
+14071,bed,Used,2407
+14072,chair,New,5076
+14073,bookcase,Used,2909
+14074,bed,New,3993
+14075,TV stand,New,1605
+14076,chair,New,4630
+14077,table,New,3131
+14078,nightstand,New,1911
+14079,mattress,New,4996
+14080,desk,New,2732
+14081,bed,Used,2497
+14082,chest of drawers,New,2830
+14083,desk,Used,440
+14084,mattress,New,1545
+14085,desk,Used,913
+14086,coffee table,Used,3378
+14087,desk,Used,4444
+14088,couch,New,4489
+14089,bookcase,Used,475
+14090,couch,Used,506
+14091,mattress,Used,2525
+14092,table,Used,638
+14093,table,New,2489
+14094,lamps,New,3481
+14095,bookcase,Used,1525
+14096,table,Used,337
+14097,chest of drawers,Used,1208
+14098,table,New,857
+14099,chest of drawers,New,2286
+14100,chest of drawers,New,2183
+14101,TV stand,New,2792
+14102,chest of drawers,Used,734
+14103,TV stand,Used,3812
+14104,coffee table,New,2928
+14105,chest of drawers,Used,3129
+14106,table,Used,2930
+14107,TV stand,New,2400
+14108,table,Used,2148
+14109,bookcase,Used,2179
+14110,desk,New,2138
+14111,desk,New,3287
+14112,desk,Used,1490
+14113,bed,Used,756
+14114,mattress,New,4799
+14115,lamps,New,3345
+14116,chest of drawers,Used,4180
+14117,chair,New,2601
+14118,coffee table,New,1945
+14119,chair,New,2463
+14120,chest of drawers,New,3548
+14121,couch,New,2988
+14122,bookcase,New,3758
+14123,chair,Used,3609
+14124,bookcase,New,4613
+14125,bed,Used,5092
+14126,bed,New,4259
+14127,bookcase,Used,3282
+14128,lamps,Used,4730
+14129,bed,New,1413
+14130,chair,Used,166
+14131,bed,New,3692
+14132,chair,Used,1824
+14133,bookcase,Used,158
+14134,coffee table,New,716
+14135,chair,New,1895
+14136,bed,New,972
+14137,mattress,Used,5096
+14138,nightstand,Used,2393
+14139,desk,Used,2028
+14140,nightstand,New,4289
+14141,desk,New,4669
+14142,chest of drawers,New,1682
+14143,couch,Used,3150
+14144,chair,Used,2156
+14145,chest of drawers,New,3235
+14146,table,Used,3290
+14147,TV stand,New,4538
+14148,TV stand,Used,1765
+14149,desk,Used,2716
+14150,mattress,New,2685
+14151,TV stand,Used,4334
+14152,mattress,Used,474
+14153,couch,New,2916
+14154,nightstand,New,4927
+14155,lamps,Used,4210
+14156,table,Used,1246
+14157,nightstand,New,2337
+14158,desk,Used,3053
+14159,chest of drawers,New,2421
+14160,chest of drawers,Used,4730
+14161,chair,New,3730
+14162,mattress,New,1444
+14163,mattress,Used,858
+14164,lamps,New,1966
+14165,desk,New,2175
+14166,bookcase,New,4918
+14167,bed,Used,2947
+14168,chest of drawers,New,1670
+14169,nightstand,Used,2995
+14170,mattress,Used,4830
+14171,coffee table,Used,4984
+14172,coffee table,New,765
+14173,lamps,New,884
+14174,desk,New,4705
+14175,mattress,Used,4700
+14176,nightstand,Used,1501
+14177,lamps,Used,2184
+14178,bed,New,391
+14179,chest of drawers,New,1490
+14180,lamps,Used,205
+14181,desk,New,203
+14182,couch,New,3742
+14183,bed,New,4003
+14184,nightstand,New,120
+14185,mattress,New,3519
+14186,chest of drawers,Used,1515
+14187,chair,Used,2086
+14188,mattress,New,4601
+14189,desk,Used,4907
+14190,TV stand,Used,2438
+14191,bookcase,Used,1879
+14192,TV stand,New,4937
+14193,bookcase,Used,1300
+14194,bookcase,Used,2280
+14195,desk,Used,1836
+14196,bed,New,638
+14197,TV stand,New,1261
+14198,coffee table,Used,1097
+14199,chair,New,4252
